@@ -1,0 +1,1212 @@
+OrderID,OrderDate,Region,Category,Product,Salesperson,UnitsSold,UnitPrice,Revenue,CustomerEmail,Year,Month,MonthName
+7001,2026-02-18,South,Electronics,Sofa,Meera Iyer,4,15281.66,61126.64,meera.iyer@example.com,2026,2,Feb
+7002,2026-03-08,West,Apparel,Sofa,Rohan Gupta,6,49428.36,296570.16,rohan.gupta@example.com,2026,3,Mar
+7003,2025-03-31,South,Furniture,Jeans,Aditi Rao,5,33698.14,168490.7,aditi.rao@example.com,2025,3,Mar
+7004,2025-05-13,Unknown,Home & Kitchen,Unknown,Karan Malhotra,10,55528.39,555283.9,karan.malhotra@example.com,2025,5,May
+7005,2026-03-12,East,Electronics,Headphones,Sana Khan,10,837.24,8372.4,sana.khan@example.com,2026,3,Mar
+7006,2026-02-18,West,Home & Kitchen,Headphones,Arjun Nair,8,55370.86,442966.88,arjun.nair@example.com,2026,2,Feb
+7007,2025-07-01,South,Electronics,Office Chair,Unknown,6,46348.75,278092.5,Not Provided,2025,7,Jul
+7008,2026-08-23,West,Electronics,T-Shirt,Rohan Gupta,7,24246.5,169725.5,rohan.gupta@example.com,2026,8,Aug
+7009,2026-02-13,West,Apparel,Office Chair,Sana Khan,4,39375.0,157500.56,sana.khan@example.com,2026,2,Feb
+7010,2026-03-25,West,Electronics,Blender,Priya Menon,5,4646.0,23228.8,priya.menon@example.com,2026,3,Mar
+7011,2026-02-24,East,Home & Kitchen,Sofa,Meera Iyer,,23048.04,,meera.iyer@example.com,2026,2,Feb
+7012,2025-10-30,West,Electronics,Sneakers,Meera Iyer,,39601.41,,meera.iyer@example.com,2025,10,Oct
+7013,2026-06-29,North,Electronics,Cookware Set,Sana Khan,3,30911.0,92734.2,sana.khan@example.com,2026,6,Jun
+7014,2025-10-22,North,Home & Kitchen,Laptop,Vikram Shah,,4996.0,,vikram.shah@example.com,2025,10,Oct
+7015,2025-07-18,West,Electronics,Jeans,Priya Menon,3,16255.71,48767.13,priya.menon@example.com,2025,7,Jul
+7016,2026-01-04,South,Electronics,Desk,Karan Malhotra,10,50738.58,507385.8,karan.malhotra@example.com,2026,1,Jan
+7017,2026-06-29,North,Apparel,Cookware Set,Aditi Rao,2,20119.91,40239.82,aditi.rao@example.com,2026,6,Jun
+7018,2025-09-25,North,Electronics,Sofa,Aditi Rao,7,2650.0,18553.01,aditi.rao@example.com,2025,9,Sep
+7019,2025-04-30,South,Electronics,Desk,Sana Khan,6,4703.4,28220.4,sana.khan@example.com,2025,4,Apr
+7020,2025-05-09,West,Electronics,Headphones,Unknown,2,2469.0,4937.02,Not Provided,2025,5,May
+7021,2025-06-14,South,Home & Kitchen,Laptop,Arjun Nair,7,11685.42,81797.94,arjun.nair@example.com,2025,6,Jun
+7022,2025-08-30,East,Apparel,Tablet,Vikram Shah,3,52588.0,157764.78,vikram.shah@example.com,2025,8,Aug
+7023,2025-05-16,North,Furniture,Cookware Set,Sana Khan,5,7854.0,39272.45,sana.khan@example.com,2025,5,May
+7024,2026-01-21,West,Furniture,Sofa,Rohan Gupta,9,9469.0,85225.14,rohan.gupta@example.com,2026,1,Jan
+7025,2026-06-21,South,Electronics,Office Chair,Rohan Gupta,5,10248.21,51241.05,rohan.gupta@example.com,2026,6,Jun
+7026,2025-09-18,North,Apparel,Jeans,Meera Iyer,,55993.73,,meera.iyer@example.com,2025,9,Sep
+7027,2025-04-04,South,Apparel,Headphones,Rohan Gupta,10,29336.08,293360.8,rohan.gupta@example.com,2025,4,Apr
+7028,2025-09-20,North,Home & Kitchen,Cookware Set,Unknown,9,5096.3,45866.7,Not Provided,2025,9,Sep
+7029,2025-12-09,South,Electronics,Smartphone,Aditi Rao,,26487.0,,aditi.rao@example.com,2025,12,Dec
+7030,2025-10-30,North,Home & Kitchen,T-Shirt,Vikram Shah,3,21002.0,63005.58,vikram.shah@example.com,2025,10,Oct
+7031,2025-03-22,West,Home & Kitchen,Unknown,Aditi Rao,6,56511.08,339066.48,aditi.rao@example.com,2025,3,Mar
+7032,2025-09-20,West,Electronics,Sneakers,Aditi Rao,7,7281.0,50965.95,aditi.rao@example.com,2025,9,Sep
+7033,2025-01-12,West,Furniture,Smartphone,Sana Khan,9,14987.0,134880.84,sana.khan@example.com,2025,1,Jan
+7034,2026-03-29,East,Apparel,Cookware Set,Aditi Rao,10,44750.43,447504.3,aditi.rao@example.com,2026,3,Mar
+7035,2025-11-25,East,Electronics,Sofa,Unknown,2,55010.0,110020.18,Not Provided,2025,11,Nov
+7036,2025-02-18,Unknown,Electronics,Sneakers,Meera Iyer,7,11946.17,83623.19,meera.iyer@example.com,2025,2,Feb
+7037,2025-01-14,South,Home & Kitchen,Desk,Meera Iyer,3,49227.7,147683.1,meera.iyer@example.com,2025,1,Jan
+7038,2025-03-21,South,Apparel,Desk,Sana Khan,3,,,sana.khan@example.com,2025,3,Mar
+7039,2026-05-11,North,Home & Kitchen,Cookware Set,Sana Khan,8,15511.0,124086.56,sana.khan@example.com,2026,5,May
+7040,2025-12-30,East,Apparel,Smartphone,Rohan Gupta,9,,,rohan.gupta@example.com,2025,12,Dec
+7041,2025-04-01,South,Apparel,Smartphone,Vikram Shah,1,12109.0,12108.6,vikram.shah@example.com,2025,4,Apr
+7042,2025-07-14,North,Apparel,Smartphone,Arjun Nair,1,57959.81,57959.81,arjun.nair@example.com,2025,7,Jul
+7043,2025-12-23,North,Electronics,Tablet,Arjun Nair,9,56621.76,509595.84,arjun.nair@example.com,2025,12,Dec
+7044,2026-07-01,South,Electronics,Laptop,Arjun Nair,,8135.0,,arjun.nair@example.com,2026,7,Jul
+7045,2026-07-17,South,Electronics,Sneakers,Arjun Nair,7,12320.45,86243.15,arjun.nair@example.com,2026,7,Jul
+7046,2026-01-22,South,Electronics,Office Chair,Arjun Nair,3,4255.0,12765.99,arjun.nair@example.com,2026,1,Jan
+7047,2025-10-10,South,Electronics,Headphones,Meera Iyer,5,58219.46,291097.3,meera.iyer@example.com,2025,10,Oct
+7048,2025-05-12,South,Furniture,Jeans,Priya Menon,2,50339.03,100678.06,priya.menon@example.com,2025,5,May
+7049,2025-08-02,North,Apparel,Smartphone,Arjun Nair,9,57439.0,516949.29,arjun.nair@example.com,2025,8,Aug
+7050,2025-01-16,South,Electronics,Sneakers,Unknown,8,30048.68,240389.44,Not Provided,2025,1,Jan
+7051,2026-07-17,South,Furniture,Sofa,Aditi Rao,1,18444.43,18444.43,aditi.rao@example.com,2026,7,Jul
+7052,2025-12-23,West,Electronics,Tablet,Aditi Rao,6,34773.46,208640.76,aditi.rao@example.com,2025,12,Dec
+7053,2026-02-03,West,Furniture,Tablet,Sana Khan,,18547.63,,sana.khan@example.com,2026,2,Feb
+7054,2025-06-13,East,Home & Kitchen,Office Chair,Sana Khan,5,19651.0,98255.4,sana.khan@example.com,2025,6,Jun
+7055,2026-08-05,East,Furniture,Tablet,Meera Iyer,6,,,meera.iyer@example.com,2026,8,Aug
+7056,2026-05-28,North,Home & Kitchen,Tablet,Priya Menon,6,46502.33,279013.98,priya.menon@example.com,2026,5,May
+7057,2025-06-10,North,Home & Kitchen,Jeans,Rohan Gupta,,5302.9,,rohan.gupta@example.com,2025,6,Jun
+7058,2025-06-07,East,Apparel,Sneakers,Priya Menon,10,52396.21,523962.1,priya.menon@example.com,2025,6,Jun
+7059,2026-05-11,South,Apparel,Headphones,Karan Malhotra,9,29487.8,265390.2,karan.malhotra@example.com,2026,5,May
+7060,2025-07-17,North,Furniture,Blender,Aditi Rao,7,26440.21,185081.47,aditi.rao@example.com,2025,7,Jul
+7061,2025-01-01,North,Electronics,Sofa,Rohan Gupta,3,57303.0,171908.07,rohan.gupta@example.com,2025,1,Jan
+7062,2025-08-13,East,Electronics,Office Chair,Unknown,1,11442.0,11442.25,Not Provided,2025,8,Aug
+7063,2025-04-18,North,Apparel,Laptop,Rohan Gupta,7,54890.0,384229.51,rohan.gupta@example.com,2025,4,Apr
+7064,2026-05-22,North,Apparel,Laptop,Sana Khan,9,36488.66,328397.94,sana.khan@example.com,2026,5,May
+7065,2025-06-29,South,Furniture,T-Shirt,Arjun Nair,5,57593.0,287966.0,arjun.nair@example.com,2025,6,Jun
+7066,2025-03-22,North,Home & Kitchen,Blender,Vikram Shah,2,41011.0,82021.5,vikram.shah@example.com,2025,3,Mar
+7067,2026-07-30,South,Electronics,Sneakers,Aditi Rao,6,19205.67,115234.02,aditi.rao@example.com,2026,7,Jul
+7068,2025-06-08,North,Furniture,T-Shirt,Karan Malhotra,3,4054.0,12160.92,karan.malhotra@example.com,2025,6,Jun
+7069,2025-03-27,West,Apparel,Headphones,Aditi Rao,10,41306.83,413068.3,aditi.rao@example.com,2025,3,Mar
+7070,2026-06-06,South,Furniture,Jeans,Rohan Gupta,8,56529.6,452236.8,rohan.gupta@example.com,2026,6,Jun
+7071,2025-04-13,Unknown,Home & Kitchen,Tablet,Aditi Rao,-3,2362.91,7088.73,aditi.rao@example.com,2025,4,Apr
+7072,2025-03-12,North,Electronics,Tablet,Sana Khan,6,46865.07,281190.42,sana.khan@example.com,2025,3,Mar
+7073,2025-12-29,North,Home & Kitchen,Desk,Sana Khan,10,3041.0,30412.4,sana.khan@example.com,2025,12,Dec
+7074,2026-03-03,West,Electronics,Smartphone,Aditi Rao,3,29088.55,87265.65,aditi.rao@example.com,2026,3,Mar
+7075,2025-03-24,West,Electronics,Office Chair,Unknown,9,1573.83,14164.47,Not Provided,2025,3,Mar
+7076,2026-07-28,West,Home & Kitchen,Blender,Unknown,6,56062.76,336376.56,Not Provided,2026,7,Jul
+7077,2025-08-30,West,Home & Kitchen,Cookware Set,Meera Iyer,9,35341.28,318071.52,meera.iyer@example.com,2025,8,Aug
+7078,2025-03-15,East,Electronics,Cookware Set,Sana Khan,6,8395.0,50369.22,sana.khan@example.com,2025,3,Mar
+7079,2025-03-08,East,Furniture,Desk,Rohan Gupta,10,30674.55,306745.5,rohan.gupta@example.com,2025,3,Mar
+7080,2025-08-09,West,Apparel,Desk,Aditi Rao,,27826.95,,aditi.rao@example.com,2025,8,Aug
+7081,2026-06-10,West,Apparel,Sofa,Meera Iyer,9,,,meera.iyer@example.com,2026,6,Jun
+7082,2026-02-13,West,Apparel,Cookware Set,Karan Malhotra,1,36937.0,36936.96,karan.malhotra@example.com,2026,2,Feb
+7083,2025-06-15,West,Electronics,Tablet,Sana Khan,10,12920.01,129200.1,sana.khan@example.com,2025,6,Jun
+7084,2025-06-30,North,Apparel,Smartphone,Vikram Shah,7,11456.13,80192.91,vikram.shah@example.com,2025,6,Jun
+7085,2025-12-06,West,Apparel,Headphones,Rohan Gupta,9,55754.0,501784.11,rohan.gupta@example.com,2025,12,Dec
+7086,2026-08-27,East,Furniture,Tablet,Meera Iyer,8,8581.88,68655.04,meera.iyer@example.com,2026,8,Aug
+7087,2025-02-17,North,Apparel,Cookware Set,Unknown,1,26814.05,26814.05,Not Provided,2025,2,Feb
+7088,2025-12-07,North,Electronics,Office Chair,Unknown,7,10698.0,74888.94,Not Provided,2025,12,Dec
+7089,2026-02-27,East,Furniture,Tablet,Meera Iyer,1,53809.0,53808.63,meera.iyer@example.com,2026,2,Feb
+7090,2025-11-06,West,Electronics,Smartphone,Unknown,1,31615.0,31614.95,Not Provided,2025,11,Nov
+7091,2025-10-22,Unknown,Home & Kitchen,Jeans,Arjun Nair,1,11995.62,11995.62,arjun.nair@example.com,2025,10,Oct
+7092,2025-06-17,West,Home & Kitchen,Blender,Arjun Nair,2,28639.65,57279.3,arjun.nair@example.com,2025,6,Jun
+7093,2025-05-20,East,Electronics,Laptop,Sana Khan,5,21163.0,105816.75,sana.khan@example.com,2025,5,May
+7094,2026-01-14,North,Home & Kitchen,Headphones,Arjun Nair,1,502.09,502.09,arjun.nair@example.com,2026,1,Jan
+7095,2025-08-23,West,Home & Kitchen,Smartphone,Arjun Nair,10,42773.04,427730.4,arjun.nair@example.com,2025,8,Aug
+7096,2025-09-21,North,Home & Kitchen,Smartphone,Rohan Gupta,1,17542.82,17542.82,rohan.gupta@example.com,2025,9,Sep
+7097,2025-08-06,West,Electronics,T-Shirt,Vikram Shah,6,58305.02,349830.12,vikram.shah@example.com,2025,8,Aug
+7098,2025-12-19,East,Home & Kitchen,Cookware Set,Sana Khan,8,,,sana.khan@example.com,2025,12,Dec
+7099,2025-08-11,West,Apparel,Unknown,Priya Menon,8,10963.99,87711.92,priya.menon@example.com,2025,8,Aug
+7100,2025-03-09,South,Furniture,Tablet,Vikram Shah,3,35084.0,105253.29,vikram.shah@example.com,2025,3,Mar
+7101,2025-08-03,North,Apparel,Laptop,Aditi Rao,6,2293.0,13755.12,aditi.rao@example.com,2025,8,Aug
+7102,2025-10-08,West,Home & Kitchen,Office Chair,Vikram Shah,,56987.64,,vikram.shah@example.com,2025,10,Oct
+7103,2025-09-13,South,Apparel,Sofa,Priya Menon,3,15724.01,47172.03,priya.menon@example.com,2025,9,Sep
+7104,2026-06-17,North,Home & Kitchen,Blender,Unknown,3,22696.26,68088.78,Not Provided,2026,6,Jun
+7105,2026-01-02,North,Furniture,Headphones,Sana Khan,2,18201.78,36403.56,sana.khan@example.com,2026,1,Jan
+7106,2025-04-09,Unknown,Apparel,Blender,Rohan Gupta,1,2129.28,2129.28,rohan.gupta@example.com,2025,4,Apr
+7107,2025-05-09,East,Furniture,Tablet,Arjun Nair,10,49541.54,495415.4,arjun.nair@example.com,2025,5,May
+7108,2026-07-22,East,Home & Kitchen,Cookware Set,Rohan Gupta,6,9436.1,56616.6,rohan.gupta@example.com,2026,7,Jul
+7109,2026-02-20,West,Home & Kitchen,Office Chair,Arjun Nair,-5,23337.1,116685.5,arjun.nair@example.com,2026,2,Feb
+7110,2025-12-30,North,Electronics,Jeans,Karan Malhotra,6,4413.0,26477.16,karan.malhotra@example.com,2025,12,Dec
+7111,2025-09-24,North,Home & Kitchen,Smartphone,Meera Iyer,8,51364.14,410913.12,meera.iyer@example.com,2025,9,Sep
+7112,2025-10-03,East,Electronics,Laptop,Priya Menon,7,49694.35,347860.45,priya.menon@example.com,2025,10,Oct
+7113,2025-05-15,East,Electronics,Blender,Aditi Rao,5,2761.29,13806.45,aditi.rao@example.com,2025,5,May
+7114,2026-06-08,West,Furniture,Sofa,Vikram Shah,,15703.88,,vikram.shah@example.com,2026,6,Jun
+7115,2026-07-14,North,Apparel,Smartphone,Vikram Shah,1,23854.94,23854.94,vikram.shah@example.com,2026,7,Jul
+7116,2025-11-06,North,Apparel,Tablet,Priya Menon,1,3903.01,3903.01,priya.menon@example.com,2025,11,Nov
+7117,2025-06-06,South,Furniture,Desk,Meera Iyer,6,4703.0,28215.84,meera.iyer@example.com,2025,6,Jun
+7118,2025-01-15,North,Apparel,Headphones,Priya Menon,,42521.13,,priya.menon@example.com,2025,1,Jan
+7119,2026-06-25,South,Apparel,Sofa,Vikram Shah,4,21332.87,85331.48,vikram.shah@example.com,2026,6,Jun
+7120,2026-04-06,West,Furniture,Laptop,Unknown,9,47661.14,428950.26,Not Provided,2026,4,Apr
+7121,2025-09-14,South,Electronics,Blender,Rohan Gupta,1,46481.13,46481.13,rohan.gupta@example.com,2025,9,Sep
+7122,2025-06-04,West,Home & Kitchen,Headphones,Aditi Rao,5,29629.0,148143.65,aditi.rao@example.com,2025,6,Jun
+7123,2026-07-18,West,Home & Kitchen,Office Chair,Priya Menon,4,44588.39,178353.56,priya.menon@example.com,2026,7,Jul
+7124,2026-01-20,North,Apparel,T-Shirt,Arjun Nair,8,7173.01,57384.08,arjun.nair@example.com,2026,1,Jan
+7125,2026-03-27,South,Furniture,Smartphone,Sana Khan,9,4619.16,41572.44,sana.khan@example.com,2026,3,Mar
+7126,2025-12-18,North,Electronics,Cookware Set,Rohan Gupta,4,1203.58,4814.32,rohan.gupta@example.com,2025,12,Dec
+7127,2025-10-23,Unknown,Electronics,Laptop,Vikram Shah,4,46131.0,184523.92,vikram.shah@example.com,2025,10,Oct
+7128,2026-01-18,West,Electronics,Jeans,Karan Malhotra,4,16267.0,65066.8,karan.malhotra@example.com,2026,1,Jan
+7129,2026-02-28,East,Apparel,Smartphone,Arjun Nair,7,41387.52,289712.64,arjun.nair@example.com,2026,2,Feb
+7130,2025-02-04,West,Home & Kitchen,Tablet,Arjun Nair,4,24519.0,98074.4,arjun.nair@example.com,2025,2,Feb
+7131,2025-09-24,South,Electronics,Blender,Sana Khan,,24018.57,,sana.khan@example.com,2025,9,Sep
+7132,2026-06-14,North,Apparel,Sneakers,Sana Khan,9,6055.23,54497.07,sana.khan@example.com,2026,6,Jun
+7133,2025-04-09,South,Apparel,Sofa,Aditi Rao,4,48403.06,193612.24,aditi.rao@example.com,2025,4,Apr
+7134,2025-01-30,East,Electronics,T-Shirt,Priya Menon,1,29053.89,29053.89,priya.menon@example.com,2025,1,Jan
+7135,2025-12-22,North,Electronics,Cookware Set,Aditi Rao,5,31465.76,157328.8,aditi.rao@example.com,2025,12,Dec
+7136,2025-05-04,East,Home & Kitchen,T-Shirt,Unknown,4,53535.76,214143.04,Not Provided,2025,5,May
+7137,2025-04-03,South,Home & Kitchen,Headphones,Unknown,6,39833.22,238999.32,Not Provided,2025,4,Apr
+7138,2025-08-29,East,Home & Kitchen,Sofa,Unknown,2,38875.0,77749.14,Not Provided,2025,8,Aug
+7139,2026-07-14,South,Home & Kitchen,Desk,Rohan Gupta,4,15607.05,62428.2,rohan.gupta@example.com,2026,7,Jul
+7140,2025-08-25,South,Apparel,Office Chair,Karan Malhotra,9,51661.07,464949.63,karan.malhotra@example.com,2025,8,Aug
+7141,2025-07-18,West,Electronics,Cookware Set,Priya Menon,9,28312.03,254808.27,priya.menon@example.com,2025,7,Jul
+7142,2026-02-20,East,Home & Kitchen,Tablet,Unknown,8,31697.36,253578.88,Not Provided,2026,2,Feb
+7143,2025-12-23,North,Electronics,Sneakers,Rohan Gupta,3,25010.0,75030.72,rohan.gupta@example.com,2025,12,Dec
+7144,2025-05-08,North,Furniture,Unknown,Arjun Nair,5,8442.0,42212.45,arjun.nair@example.com,2025,5,May
+7145,2025-06-30,West,Electronics,Blender,Meera Iyer,9,11328.15,101953.35,meera.iyer@example.com,2025,6,Jun
+7146,2026-06-24,West,Furniture,Tablet,Unknown,9,47418.0,426763.08,Not Provided,2026,6,Jun
+7147,2025-04-26,North,Apparel,Sofa,Rohan Gupta,6,18230.98,109385.88,rohan.gupta@example.com,2025,4,Apr
+7148,2025-02-06,South,Electronics,Smartphone,Priya Menon,2,54924.46,109848.92,priya.menon@example.com,2025,2,Feb
+7149,2025-09-22,West,Home & Kitchen,Laptop,Unknown,4,28524.14,114096.56,Not Provided,2025,9,Sep
+7150,2026-05-11,East,Furniture,T-Shirt,Karan Malhotra,3,39328.45,117985.35,karan.malhotra@example.com,2026,5,May
+7151,2026-02-07,West,Electronics,Sneakers,Meera Iyer,4,29757.0,119027.76,meera.iyer@example.com,2026,2,Feb
+7152,2025-01-30,East,Electronics,Laptop,Aditi Rao,1,49751.18,49751.18,aditi.rao@example.com,2025,1,Jan
+7153,2026-07-07,South,Furniture,Blender,Sana Khan,6,23740.75,142444.5,sana.khan@example.com,2026,7,Jul
+7154,2026-08-10,West,Electronics,Tablet,Karan Malhotra,10,50501.41,505014.1,karan.malhotra@example.com,2026,8,Aug
+7155,2026-06-29,North,Apparel,Sofa,Arjun Nair,6,21108.26,126649.56,arjun.nair@example.com,2026,6,Jun
+7156,2026-01-22,East,Furniture,Tablet,Unknown,5,21771.34,108856.7,Not Provided,2026,1,Jan
+7157,2025-05-25,West,Home & Kitchen,Headphones,Aditi Rao,7,3795.53,26568.71,aditi.rao@example.com,2025,5,May
+7158,2025-12-03,West,Apparel,Jeans,Arjun Nair,4,21602.0,86409.32,arjun.nair@example.com,2025,12,Dec
+7159,2026-03-17,North,Apparel,Sofa,Meera Iyer,7,33589.04,235123.28,meera.iyer@example.com,2026,3,Mar
+7160,2025-02-11,West,Furniture,Desk,Rohan Gupta,5,53881.0,269403.8,rohan.gupta@example.com,2025,2,Feb
+7161,2026-08-16,East,Electronics,Blender,Aditi Rao,2,4361.24,8722.48,aditi.rao@example.com,2026,8,Aug
+7162,2025-08-25,North,Electronics,Laptop,Arjun Nair,10,8551.1,85511.0,arjun.nair@example.com,2025,8,Aug
+7163,2025-02-07,North,Apparel,Tablet,Aditi Rao,1,45541.0,45540.95,aditi.rao@example.com,2025,2,Feb
+7164,2026-01-07,East,Home & Kitchen,Unknown,Sana Khan,,39509.92,,sana.khan@example.com,2026,1,Jan
+7165,2025-06-13,South,Home & Kitchen,Blender,Vikram Shah,5,37660.12,188300.6,vikram.shah@example.com,2025,6,Jun
+7166,2025-02-13,East,Furniture,Headphones,Aditi Rao,5,39609.62,198048.1,aditi.rao@example.com,2025,2,Feb
+7167,2026-04-08,North,Apparel,Sofa,Rohan Gupta,2,46086.68,92173.36,rohan.gupta@example.com,2026,4,Apr
+7168,2026-04-07,East,Electronics,Office Chair,Priya Menon,,32520.45,,priya.menon@example.com,2026,4,Apr
+7169,2026-01-24,East,Furniture,Laptop,Unknown,2,51782.39,103564.78,Not Provided,2026,1,Jan
+7170,2026-05-30,East,Home & Kitchen,Tablet,Aditi Rao,6,38207.0,229243.92,aditi.rao@example.com,2026,5,May
+7171,2026-02-15,North,Home & Kitchen,Cookware Set,Rohan Gupta,3,53248.0,159744.09,rohan.gupta@example.com,2026,2,Feb
+7172,2026-12-07,East,Furniture,Unknown,Aditi Rao,6,19042.15,114252.9,aditi.rao@example.com,2026,12,Dec
+7173,2025-03-23,West,Furniture,T-Shirt,Meera Iyer,2,1717.0,3433.8,meera.iyer@example.com,2025,3,Mar
+7174,2026-06-16,West,Electronics,Unknown,Unknown,10,19490.0,194896.8,Not Provided,2026,6,Jun
+7175,2025-04-25,North,Home & Kitchen,Cookware Set,Aditi Rao,1,42926.44,42926.44,aditi.rao@example.com,2025,4,Apr
+7176,2025-06-12,West,Electronics,T-Shirt,Rohan Gupta,6,23457.0,140741.88,rohan.gupta@example.com,2025,6,Jun
+7177,2025-01-22,South,Apparel,Jeans,Priya Menon,6,39128.72,234772.32,priya.menon@example.com,2025,1,Jan
+7178,2025-11-23,South,Furniture,Tablet,Sana Khan,10,27446.93,274469.3,sana.khan@example.com,2025,11,Nov
+7179,2026-05-15,South,Furniture,Blender,Sana Khan,-6,8038.66,48231.96,sana.khan@example.com,2026,5,May
+7180,2025-05-10,North,Apparel,Cookware Set,Vikram Shah,10,12507.0,125067.5,vikram.shah@example.com,2025,5,May
+7181,2025-11-24,East,Home & Kitchen,Sofa,Rohan Gupta,8,52395.0,419163.52,rohan.gupta@example.com,2025,11,Nov
+7182,2026-03-15,West,Electronics,Sofa,Priya Menon,5,57002.67,285013.35,priya.menon@example.com,2026,3,Mar
+7183,2025-10-15,North,Home & Kitchen,Jeans,Priya Menon,10,49120.82,491208.2,priya.menon@example.com,2025,10,Oct
+7184,2026-06-17,South,Electronics,Desk,Aditi Rao,8,28347.0,226774.96,aditi.rao@example.com,2026,6,Jun
+7185,2026-07-21,South,Home & Kitchen,Sneakers,Karan Malhotra,10,30836.21,308362.1,karan.malhotra@example.com,2026,7,Jul
+7186,2025-11-18,West,Home & Kitchen,Smartphone,Vikram Shah,10,30962.0,309622.5,vikram.shah@example.com,2025,11,Nov
+7187,2026-05-17,North,Furniture,Sneakers,Sana Khan,,56419.86,,sana.khan@example.com,2026,5,May
+7188,2025-04-20,South,Home & Kitchen,Desk,Meera Iyer,8,,,meera.iyer@example.com,2025,4,Apr
+7189,2025-02-04,North,Home & Kitchen,Tablet,Sana Khan,6,11768.0,70611.0,sana.khan@example.com,2025,2,Feb
+7190,2025-06-26,West,Electronics,Tablet,Karan Malhotra,7,15984.0,111884.85,karan.malhotra@example.com,2025,6,Jun
+7191,2025-10-25,West,Furniture,Jeans,Unknown,4,46755.0,187018.56,Not Provided,2025,10,Oct
+7192,2026-08-26,Unknown,Furniture,Headphones,Aditi Rao,5,2376.48,11882.4,aditi.rao@example.com,2026,8,Aug
+7193,2026-06-24,South,Furniture,Jeans,Meera Iyer,8,,,meera.iyer@example.com,2026,6,Jun
+7194,2025-02-19,North,Electronics,Tablet,Rohan Gupta,4,2378.0,9510.72,rohan.gupta@example.com,2025,2,Feb
+7195,2025-09-25,South,Apparel,Office Chair,Unknown,7,14015.11,98105.77,Not Provided,2025,9,Sep
+7196,2025-11-01,West,Apparel,Office Chair,Unknown,7,,,Not Provided,2025,11,Nov
+7197,2026-04-12,West,Furniture,Tablet,Sana Khan,8,1771.94,14175.52,sana.khan@example.com,2026,4,Apr
+7198,2026-08-08,North,Home & Kitchen,T-Shirt,Rohan Gupta,1,13314.0,13313.78,rohan.gupta@example.com,2026,8,Aug
+7199,2025-04-29,North,Apparel,T-Shirt,Sana Khan,-10,30330.5,303305.0,sana.khan@example.com,2025,4,Apr
+7200,2026-06-05,North,Electronics,Smartphone,Sana Khan,2,28833.55,57667.1,sana.khan@example.com,2026,6,Jun
+7201,2025-03-23,East,Home & Kitchen,Sofa,Unknown,,49711.23,,Not Provided,2025,3,Mar
+7202,2026-08-31,West,Furniture,Smartphone,Meera Iyer,10,39744.0,397444.1,meera.iyer@example.com,2026,8,Aug
+7203,2025-06-12,South,Home & Kitchen,Headphones,Unknown,6,49540.21,297241.26,Not Provided,2025,6,Jun
+7204,2026-01-15,East,Electronics,Cookware Set,Karan Malhotra,3,57345.28,172035.84,karan.malhotra@example.com,2026,1,Jan
+7205,2025-09-26,West,Electronics,Blender,Sana Khan,9,4923.71,44313.39,sana.khan@example.com,2025,9,Sep
+7206,2025-06-21,North,Home & Kitchen,T-Shirt,Meera Iyer,6,58074.55,348447.3,meera.iyer@example.com,2025,6,Jun
+7207,2025-08-06,South,Apparel,Desk,Vikram Shah,10,58544.99,585449.9,vikram.shah@example.com,2025,8,Aug
+7208,2025-09-17,South,Electronics,T-Shirt,Vikram Shah,4,6202.0,24806.84,vikram.shah@example.com,2025,9,Sep
+7209,2025-11-20,South,Apparel,T-Shirt,Karan Malhotra,4,37711.0,150843.12,karan.malhotra@example.com,2025,11,Nov
+7210,2026-07-31,South,Electronics,Unknown,Sana Khan,,11222.05,,sana.khan@example.com,2026,7,Jul
+7211,2026-02-01,East,Electronics,T-Shirt,Vikram Shah,-5,54307.36,271536.8,vikram.shah@example.com,2026,2,Feb
+7212,2025-04-25,North,Home & Kitchen,T-Shirt,Karan Malhotra,9,40857.0,367716.24,karan.malhotra@example.com,2025,4,Apr
+7213,2026-04-12,North,Furniture,Tablet,Aditi Rao,-2,23490.81,46981.62,aditi.rao@example.com,2026,4,Apr
+7214,2025-01-29,North,Electronics,Desk,Arjun Nair,,11033.79,,arjun.nair@example.com,2025,1,Jan
+7215,2025-03-05,West,Apparel,Office Chair,Rohan Gupta,9,38572.0,347143.59,rohan.gupta@example.com,2025,3,Mar
+7216,2025-01-15,North,Apparel,Cookware Set,Unknown,6,25467.0,152801.04,Not Provided,2025,1,Jan
+7217,2025-04-03,North,Electronics,Tablet,Rohan Gupta,-9,45355.11,408195.99,rohan.gupta@example.com,2025,4,Apr
+7218,2025-09-18,North,Home & Kitchen,Jeans,Priya Menon,4,19518.74,78074.96,priya.menon@example.com,2025,9,Sep
+7219,2026-04-06,West,Electronics,Blender,Karan Malhotra,6,19075.0,114451.26,karan.malhotra@example.com,2026,4,Apr
+7220,2026-04-19,South,Apparel,Blender,Meera Iyer,8,39885.0,319079.92,meera.iyer@example.com,2026,4,Apr
+7221,2026-06-29,South,Furniture,Desk,Meera Iyer,10,4522.16,45221.6,meera.iyer@example.com,2026,6,Jun
+7222,2026-02-16,South,Home & Kitchen,Headphones,Meera Iyer,10,10695.34,106953.4,meera.iyer@example.com,2026,2,Feb
+7223,2026-07-28,West,Furniture,Unknown,Sana Khan,9,54722.66,492503.94,sana.khan@example.com,2026,7,Jul
+7224,2025-11-26,North,Furniture,Sneakers,Rohan Gupta,5,10731.38,53656.9,rohan.gupta@example.com,2025,11,Nov
+7225,2026-05-26,West,Electronics,Office Chair,Vikram Shah,,27191.76,,vikram.shah@example.com,2026,5,May
+7226,2026-05-01,North,Home & Kitchen,Smartphone,Vikram Shah,1,30536.0,30535.61,vikram.shah@example.com,2026,5,May
+7227,2025-11-16,East,Apparel,Office Chair,Arjun Nair,7,,,arjun.nair@example.com,2025,11,Nov
+7228,2026-01-18,East,Apparel,Jeans,Unknown,4,51952.07,207808.28,Not Provided,2026,1,Jan
+7229,2025-09-28,South,Home & Kitchen,Sneakers,Aditi Rao,8,11567.1,92536.8,aditi.rao@example.com,2025,9,Sep
+7230,2025-09-18,South,Apparel,Laptop,Vikram Shah,2,35624.29,71248.58,vikram.shah@example.com,2025,9,Sep
+7231,2025-06-17,South,Home & Kitchen,Headphones,Sana Khan,2,3895.76,7791.52,sana.khan@example.com,2025,6,Jun
+7232,2025-03-11,North,Furniture,Desk,Aditi Rao,2,14519.0,29038.66,aditi.rao@example.com,2025,3,Mar
+7233,2026-02-10,South,Electronics,Headphones,Aditi Rao,7,19833.0,138833.87,aditi.rao@example.com,2026,2,Feb
+7234,2025-02-27,North,Electronics,Blender,Rohan Gupta,7,5470.53,38293.71,rohan.gupta@example.com,2025,2,Feb
+7235,2025-05-22,South,Home & Kitchen,Cookware Set,Rohan Gupta,8,53739.0,429908.88,rohan.gupta@example.com,2025,5,May
+7236,2025-10-18,South,Electronics,Sneakers,Vikram Shah,4,33279.0,133116.12,vikram.shah@example.com,2025,10,Oct
+7237,2025-07-07,East,Home & Kitchen,Blender,Rohan Gupta,1,26055.09,26055.09,rohan.gupta@example.com,2025,7,Jul
+7238,2025-04-28,South,Apparel,Sneakers,Meera Iyer,8,39311.83,314494.64,meera.iyer@example.com,2025,4,Apr
+7239,2025-08-18,East,Apparel,Cookware Set,Karan Malhotra,9,39329.0,353957.4,karan.malhotra@example.com,2025,8,Aug
+7240,2026-02-25,West,Home & Kitchen,Headphones,Sana Khan,6,52094.61,312567.66,sana.khan@example.com,2026,2,Feb
+7241,2025-01-10,South,Home & Kitchen,Unknown,Arjun Nair,7,9816.53,68715.71,arjun.nair@example.com,2025,1,Jan
+7242,2025-02-19,West,Home & Kitchen,Headphones,Sana Khan,6,20596.0,123575.04,sana.khan@example.com,2025,2,Feb
+7243,2026-08-28,South,Furniture,Blender,Meera Iyer,8,11924.0,95395.92,meera.iyer@example.com,2026,8,Aug
+7244,2025-11-23,East,Electronics,Tablet,Meera Iyer,7,14584.0,102084.99,meera.iyer@example.com,2025,11,Nov
+7245,2025-10-13,North,Electronics,Smartphone,Arjun Nair,,40765.27,,arjun.nair@example.com,2025,10,Oct
+7246,2025-05-30,North,Furniture,Smartphone,Vikram Shah,7,57664.46,403651.22,vikram.shah@example.com,2025,5,May
+7247,2026-01-14,North,Electronics,Laptop,Sana Khan,4,15894.58,63578.32,sana.khan@example.com,2026,1,Jan
+7248,2025-08-12,West,Furniture,Headphones,Sana Khan,10,52773.28,527732.8,sana.khan@example.com,2025,8,Aug
+7249,2025-01-17,South,Furniture,Office Chair,Arjun Nair,8,15352.69,122821.52,arjun.nair@example.com,2025,1,Jan
+7250,2026-03-15,South,Home & Kitchen,Cookware Set,Rohan Gupta,5,1168.21,5841.05,rohan.gupta@example.com,2026,3,Mar
+7251,2025-10-15,East,Home & Kitchen,Sneakers,Unknown,4,22199.42,88797.68,Not Provided,2025,10,Oct
+7252,2025-03-16,South,Furniture,Office Chair,Arjun Nair,3,6834.96,20504.88,arjun.nair@example.com,2025,3,Mar
+7253,2026-05-18,North,Furniture,Jeans,Unknown,10,8762.0,87621.3,Not Provided,2026,5,May
+7254,2025-07-26,West,Apparel,Laptop,Rohan Gupta,3,14761.77,44285.31,rohan.gupta@example.com,2025,7,Jul
+7255,2026-08-31,South,Home & Kitchen,Laptop,Sana Khan,-8,6258.43,50067.44,sana.khan@example.com,2026,8,Aug
+7256,2025-11-14,North,Home & Kitchen,Headphones,Meera Iyer,2,42995.0,85990.48,meera.iyer@example.com,2025,11,Nov
+7257,2025-11-07,West,Electronics,Laptop,Vikram Shah,3,47279.03,141837.09,vikram.shah@example.com,2025,11,Nov
+7258,2025-07-13,Unknown,Home & Kitchen,Sneakers,Priya Menon,5,3525.5,17627.5,priya.menon@example.com,2025,7,Jul
+7259,2025-12-11,West,Electronics,Cookware Set,Arjun Nair,2,39152.11,78304.22,arjun.nair@example.com,2025,12,Dec
+7260,2025-11-07,West,Furniture,Jeans,Aditi Rao,7,52272.59,365908.13,aditi.rao@example.com,2025,11,Nov
+7261,2025-06-11,West,Apparel,Desk,Sana Khan,2,59056.0,118112.3,sana.khan@example.com,2025,6,Jun
+7262,2025-06-20,North,Electronics,Desk,Aditi Rao,3,43710.04,131130.12,aditi.rao@example.com,2025,6,Jun
+7263,2026-08-28,East,Electronics,Headphones,Sana Khan,5,48169.0,240845.0,sana.khan@example.com,2026,8,Aug
+7264,2025-04-26,South,Home & Kitchen,Tablet,Karan Malhotra,1,35315.37,35315.37,karan.malhotra@example.com,2025,4,Apr
+7265,2025-08-01,South,Apparel,Smartphone,Arjun Nair,7,57938.26,405567.82,arjun.nair@example.com,2025,8,Aug
+7266,2025-04-20,South,Apparel,Jeans,Meera Iyer,2,8138.39,16276.78,meera.iyer@example.com,2025,4,Apr
+7267,2025-12-28,East,Home & Kitchen,T-Shirt,Meera Iyer,3,34384.6,103153.8,meera.iyer@example.com,2025,12,Dec
+7268,2025-10-23,North,Furniture,Sofa,Arjun Nair,5,32946.0,164731.7,arjun.nair@example.com,2025,10,Oct
+7269,2025-01-22,Unknown,Home & Kitchen,T-Shirt,Arjun Nair,9,23434.86,210913.74,arjun.nair@example.com,2025,1,Jan
+7270,2025-01-01,South,Furniture,Unknown,Arjun Nair,7,32083.34,224583.38,arjun.nair@example.com,2025,1,Jan
+7271,2025-05-23,West,Electronics,Headphones,Sana Khan,7,23578.27,165047.89,sana.khan@example.com,2025,5,May
+7272,2025-10-26,North,Furniture,T-Shirt,Unknown,9,52795.75,475161.75,Not Provided,2025,10,Oct
+7273,2025-01-03,North,Electronics,Laptop,Vikram Shah,5,47897.0,239487.45,vikram.shah@example.com,2025,1,Jan
+7274,2025-09-05,West,Apparel,Laptop,Unknown,6,41861.12,251166.72,Not Provided,2025,9,Sep
+7275,2025-04-05,South,Electronics,Blender,Karan Malhotra,5,53385.18,266925.9,karan.malhotra@example.com,2025,4,Apr
+7276,2026-08-23,South,Home & Kitchen,Unknown,Sana Khan,4,34268.52,137074.08,sana.khan@example.com,2026,8,Aug
+7277,2025-06-04,West,Home & Kitchen,Sofa,Sana Khan,4,17552.0,70206.68,sana.khan@example.com,2025,6,Jun
+7278,2025-08-19,North,Home & Kitchen,Sneakers,Unknown,2,6780.84,13561.68,Not Provided,2025,8,Aug
+7279,2025-09-27,North,Apparel,Laptop,Arjun Nair,6,9133.89,54803.34,arjun.nair@example.com,2025,9,Sep
+7280,2026-06-12,North,Furniture,Office Chair,Arjun Nair,,20871.98,,arjun.nair@example.com,2026,6,Jun
+7281,2026-04-08,East,Home & Kitchen,Office Chair,Unknown,5,48357.1,241785.5,Not Provided,2026,4,Apr
+7282,2025-01-03,East,Furniture,Cookware Set,Vikram Shah,10,55820.0,558204.6,vikram.shah@example.com,2025,1,Jan
+7283,2026-08-03,North,Furniture,Laptop,Sana Khan,3,23927.72,71783.16,sana.khan@example.com,2026,8,Aug
+7284,2026-08-05,South,Apparel,Blender,Arjun Nair,3,44783.53,134350.59,arjun.nair@example.com,2026,8,Aug
+7285,2026-01-08,East,Home & Kitchen,Cookware Set,Rohan Gupta,-3,39626.0,118876.71,rohan.gupta@example.com,2026,1,Jan
+7286,2025-04-21,North,Apparel,Office Chair,Unknown,8,20986.0,167890.64,Not Provided,2025,4,Apr
+7287,2025-12-17,North,Electronics,Tablet,Sana Khan,9,54199.96,487799.64,sana.khan@example.com,2025,12,Dec
+7288,2025-12-25,South,Electronics,Smartphone,Arjun Nair,2,46110.44,92220.88,arjun.nair@example.com,2025,12,Dec
+7289,2025-08-21,West,Electronics,Sofa,Arjun Nair,5,4998.87,24994.35,arjun.nair@example.com,2025,8,Aug
+7290,2025-08-19,East,Furniture,Sofa,Vikram Shah,10,59403.59,594035.9,vikram.shah@example.com,2025,8,Aug
+7291,2026-02-12,North,Electronics,Blender,Vikram Shah,8,19169.67,153357.36,vikram.shah@example.com,2026,2,Feb
+7292,2026-07-19,West,Electronics,Desk,Aditi Rao,7,12671.42,88699.94,aditi.rao@example.com,2026,7,Jul
+7293,2026-04-30,South,Home & Kitchen,Cookware Set,Karan Malhotra,,54818.95,,karan.malhotra@example.com,2026,4,Apr
+7294,2026-08-03,West,Home & Kitchen,Office Chair,Sana Khan,7,31685.91,221801.37,sana.khan@example.com,2026,8,Aug
+7295,2026-06-23,West,Electronics,Desk,Arjun Nair,7,31047.56,217332.92,arjun.nair@example.com,2026,6,Jun
+7296,2025-09-13,East,Electronics,Sneakers,Unknown,1,38961.1,38961.1,Not Provided,2025,9,Sep
+7297,2026-05-27,North,Electronics,Sofa,Rohan Gupta,-8,16835.0,134677.44,rohan.gupta@example.com,2026,5,May
+7298,2026-01-01,West,Apparel,T-Shirt,Vikram Shah,5,21035.0,105172.75,vikram.shah@example.com,2026,1,Jan
+7299,2025-10-07,North,Home & Kitchen,Cookware Set,Arjun Nair,8,27828.83,222630.64,arjun.nair@example.com,2025,10,Oct
+7300,2025-03-27,South,Home & Kitchen,Sofa,Sana Khan,6,1724.42,10346.52,sana.khan@example.com,2025,3,Mar
+7301,2025-09-10,North,Home & Kitchen,Tablet,Meera Iyer,8,25977.0,207814.08,meera.iyer@example.com,2025,9,Sep
+7302,2025-09-15,East,Electronics,Jeans,Unknown,9,5487.0,49378.77,Not Provided,2025,9,Sep
+7303,2025-03-03,North,Electronics,Sneakers,Unknown,6,29953.0,179719.08,Not Provided,2025,3,Mar
+7304,2026-01-26,East,Apparel,Headphones,Priya Menon,10,25931.0,259309.3,priya.menon@example.com,2026,1,Jan
+7305,2025-12-12,North,Furniture,Headphones,Unknown,1,,,Not Provided,2025,12,Dec
+7306,2026-05-24,South,Home & Kitchen,Tablet,Unknown,1,19829.97,19829.97,Not Provided,2026,5,May
+7307,2026-11-01,North,Apparel,Sofa,Karan Malhotra,1,51839.93,51839.93,karan.malhotra@example.com,2026,11,Nov
+7308,2026-03-13,East,Home & Kitchen,Office Chair,Vikram Shah,6,26979.81,161878.86,vikram.shah@example.com,2026,3,Mar
+7309,2025-08-04,North,Furniture,T-Shirt,Karan Malhotra,7,6186.6,43306.2,karan.malhotra@example.com,2025,8,Aug
+7310,2025-11-28,East,Electronics,T-Shirt,Rohan Gupta,1,29371.32,29371.32,rohan.gupta@example.com,2025,11,Nov
+7311,2025-04-13,North,Electronics,Headphones,Sana Khan,9,28456.0,256099.77,sana.khan@example.com,2025,4,Apr
+7312,2026-03-27,East,Apparel,Desk,Sana Khan,4,16578.0,66312.08,sana.khan@example.com,2026,3,Mar
+7313,2025-07-07,North,Electronics,Tablet,Sana Khan,9,8072.3,72650.7,sana.khan@example.com,2025,7,Jul
+7314,2026-01-24,East,Furniture,Laptop,Arjun Nair,6,46179.31,277075.86,arjun.nair@example.com,2026,1,Jan
+7315,2025-01-09,South,Furniture,Unknown,Sana Khan,7,14215.71,99509.97,sana.khan@example.com,2025,1,Jan
+7316,2026-06-19,South,Electronics,Desk,Priya Menon,10,18564.0,185636.4,priya.menon@example.com,2026,6,Jun
+7317,2025-03-14,South,Electronics,Sneakers,Priya Menon,5,9924.75,49623.75,priya.menon@example.com,2025,3,Mar
+7318,2026-02-28,North,Furniture,T-Shirt,Karan Malhotra,8,35253.32,282026.56,karan.malhotra@example.com,2026,2,Feb
+7319,2026-08-18,West,Electronics,Office Chair,Unknown,8,14387.42,115099.36,Not Provided,2026,8,Aug
+7320,2026-03-28,West,Electronics,Sofa,Sana Khan,10,35819.0,358185.1,sana.khan@example.com,2026,3,Mar
+7321,2026-02-23,South,Electronics,Desk,Rohan Gupta,9,,,rohan.gupta@example.com,2026,2,Feb
+7322,2025-10-05,North,Furniture,Cookware Set,Vikram Shah,5,40191.77,200958.85,vikram.shah@example.com,2025,10,Oct
+7323,2026-02-11,West,Apparel,Tablet,Priya Menon,2,17033.15,34066.3,priya.menon@example.com,2026,2,Feb
+7324,2026-05-03,South,Apparel,Sofa,Aditi Rao,2,46279.93,92559.86,aditi.rao@example.com,2026,5,May
+7325,2026-04-22,North,Home & Kitchen,Blender,Aditi Rao,10,40875.58,408755.8,aditi.rao@example.com,2026,4,Apr
+7326,2025-11-28,North,Furniture,Office Chair,Vikram Shah,2,45943.35,91886.7,vikram.shah@example.com,2025,11,Nov
+7327,2025-05-21,West,Apparel,Blender,Meera Iyer,10,,,meera.iyer@example.com,2025,5,May
+7328,2025-02-14,North,Apparel,Jeans,Meera Iyer,3,8511.87,25535.61,meera.iyer@example.com,2025,2,Feb
+7329,2025-09-06,South,Home & Kitchen,Office Chair,Arjun Nair,4,59224.0,236894.2,arjun.nair@example.com,2025,9,Sep
+7330,2025-09-10,West,Furniture,Blender,Rohan Gupta,,28368.0,,rohan.gupta@example.com,2025,9,Sep
+7331,2026-08-15,South,Electronics,Headphones,Meera Iyer,2,16004.42,32008.84,meera.iyer@example.com,2026,8,Aug
+7332,2025-01-19,South,Apparel,T-Shirt,Rohan Gupta,7,53187.0,372306.41,rohan.gupta@example.com,2025,1,Jan
+7333,2026-02-11,North,Apparel,Cookware Set,Arjun Nair,,36881.0,,arjun.nair@example.com,2026,2,Feb
+7334,2026-01-09,West,Furniture,Sneakers,Arjun Nair,3,37957.36,113872.08,arjun.nair@example.com,2026,1,Jan
+7335,2025-01-22,North,Home & Kitchen,Desk,Priya Menon,9,40640.85,365767.65,priya.menon@example.com,2025,1,Jan
+7336,2025-05-15,North,Furniture,Office Chair,Meera Iyer,5,49720.86,248604.3,meera.iyer@example.com,2025,5,May
+7337,2025-09-21,West,Electronics,Tablet,Priya Menon,7,,,priya.menon@example.com,2025,9,Sep
+7338,2025-08-26,North,Furniture,Blender,Karan Malhotra,6,2519.41,15116.46,karan.malhotra@example.com,2025,8,Aug
+7339,2026-05-26,South,Apparel,Cookware Set,Vikram Shah,-6,38368.0,230210.22,vikram.shah@example.com,2026,5,May
+7340,2026-06-29,Unknown,Furniture,T-Shirt,Vikram Shah,,36240.51,,vikram.shah@example.com,2026,6,Jun
+7341,2026-02-13,South,Furniture,Desk,Vikram Shah,8,44642.33,357138.64,vikram.shah@example.com,2026,2,Feb
+7342,2025-04-13,South,Electronics,Tablet,Karan Malhotra,4,41161.45,164645.8,karan.malhotra@example.com,2025,4,Apr
+7343,2025-10-03,East,Electronics,Desk,Meera Iyer,3,27586.15,82758.45,meera.iyer@example.com,2025,10,Oct
+7344,2025-03-20,West,Apparel,Tablet,Priya Menon,9,683.0,6148.71,priya.menon@example.com,2025,3,Mar
+7345,2025-08-16,East,Home & Kitchen,Tablet,Aditi Rao,8,,,aditi.rao@example.com,2025,8,Aug
+7346,2025-08-26,West,Furniture,Sneakers,Unknown,4,58927.06,235708.24,Not Provided,2025,8,Aug
+7347,2025-04-10,South,Electronics,Cookware Set,Sana Khan,10,4343.45,43434.5,sana.khan@example.com,2025,4,Apr
+7348,2026-07-15,South,Home & Kitchen,Cookware Set,Unknown,3,34272.0,102815.76,Not Provided,2026,7,Jul
+7349,2026-02-03,East,Furniture,Desk,Vikram Shah,5,34695.0,173473.5,vikram.shah@example.com,2026,2,Feb
+7350,2025-07-12,East,Electronics,Laptop,Karan Malhotra,4,26144.54,104578.16,karan.malhotra@example.com,2025,7,Jul
+7351,2025-08-05,East,Electronics,Headphones,Unknown,4,56629.69,226518.76,Not Provided,2025,8,Aug
+7352,2025-04-26,East,Apparel,Office Chair,Vikram Shah,2,29737.98,59475.96,vikram.shah@example.com,2025,4,Apr
+7353,2025-10-24,West,Apparel,Headphones,Aditi Rao,4,46580.0,186319.16,aditi.rao@example.com,2025,10,Oct
+7354,2026-05-29,South,Furniture,T-Shirt,Vikram Shah,3,55927.32,167781.96,vikram.shah@example.com,2026,5,May
+7355,2026-07-06,East,Furniture,T-Shirt,Karan Malhotra,10,29099.0,290988.7,karan.malhotra@example.com,2026,7,Jul
+7356,2025-07-03,East,Apparel,Office Chair,Vikram Shah,4,13142.0,52569.48,vikram.shah@example.com,2025,7,Jul
+7357,2025-02-26,East,Home & Kitchen,Laptop,Vikram Shah,8,14047.69,112381.52,vikram.shah@example.com,2025,2,Feb
+7358,2026-08-14,West,Apparel,Cookware Set,Meera Iyer,7,58547.66,409833.62,meera.iyer@example.com,2026,8,Aug
+7359,2025-01-02,East,Furniture,Jeans,Aditi Rao,4,8772.11,35088.44,aditi.rao@example.com,2025,1,Jan
+7360,2025-10-21,North,Furniture,Cookware Set,Arjun Nair,3,47039.53,141118.59,arjun.nair@example.com,2025,10,Oct
+7361,2025-03-15,North,Home & Kitchen,Jeans,Karan Malhotra,7,56819.64,397737.48,karan.malhotra@example.com,2025,3,Mar
+7362,2026-01-29,West,Apparel,Unknown,Unknown,10,4775.32,47753.2,Not Provided,2026,1,Jan
+7363,2025-01-06,South,Apparel,Smartphone,Unknown,5,19537.36,97686.8,Not Provided,2025,1,Jan
+7364,2026-05-08,South,Home & Kitchen,Headphones,Vikram Shah,3,53891.83,161675.49,vikram.shah@example.com,2026,5,May
+7365,2025-11-07,West,Electronics,Blender,Karan Malhotra,5,24714.53,123572.65,karan.malhotra@example.com,2025,11,Nov
+7366,2025-10-30,West,Electronics,T-Shirt,Sana Khan,6,19057.73,114346.38,sana.khan@example.com,2025,10,Oct
+7367,2025-03-25,East,Home & Kitchen,T-Shirt,Aditi Rao,4,,,aditi.rao@example.com,2025,3,Mar
+7368,2026-03-01,East,Furniture,Smartphone,Karan Malhotra,6,10165.0,60988.56,karan.malhotra@example.com,2026,3,Mar
+7369,2026-02-03,North,Home & Kitchen,Sneakers,Rohan Gupta,6,49351.65,296109.9,rohan.gupta@example.com,2026,2,Feb
+7370,2025-01-08,South,Apparel,Headphones,Unknown,6,31477.0,188859.72,Not Provided,2025,1,Jan
+7371,2025-01-24,West,Home & Kitchen,Tablet,Arjun Nair,10,20176.2,201762.0,arjun.nair@example.com,2025,1,Jan
+7372,2026-06-13,East,Home & Kitchen,Smartphone,Karan Malhotra,5,4617.72,23088.6,karan.malhotra@example.com,2026,6,Jun
+7373,2026-04-09,East,Electronics,Desk,Unknown,5,4928.0,24642.3,Not Provided,2026,4,Apr
+7374,2026-05-17,South,Electronics,Sofa,Unknown,6,,,Not Provided,2026,5,May
+7375,2025-04-16,South,Apparel,Sneakers,Rohan Gupta,6,41201.43,247208.58,rohan.gupta@example.com,2025,4,Apr
+7376,2025-10-04,East,Apparel,Sofa,Unknown,1,18737.13,18737.13,Not Provided,2025,10,Oct
+7377,2025-04-26,North,Electronics,Cookware Set,Aditi Rao,4,52328.04,209312.16,aditi.rao@example.com,2025,4,Apr
+7378,2025-08-18,West,Apparel,Office Chair,Sana Khan,7,8838.38,61868.66,sana.khan@example.com,2025,8,Aug
+7379,2026-06-01,North,Furniture,Tablet,Vikram Shah,1,57920.75,57920.75,vikram.shah@example.com,2026,6,Jun
+7380,2025-08-13,West,Electronics,Sofa,Rohan Gupta,1,29364.12,29364.12,rohan.gupta@example.com,2025,8,Aug
+7381,2025-02-13,South,Electronics,T-Shirt,Karan Malhotra,2,25591.68,51183.36,karan.malhotra@example.com,2025,2,Feb
+7382,2026-04-18,South,Electronics,Sneakers,Priya Menon,7,48898.16,342287.12,priya.menon@example.com,2026,4,Apr
+7383,2026-01-14,North,Apparel,Sofa,Unknown,2,20067.0,40133.24,Not Provided,2026,1,Jan
+7384,2025-07-03,West,Home & Kitchen,Jeans,Unknown,8,8830.29,70642.32,Not Provided,2025,7,Jul
+7385,2026-03-18,South,Electronics,Smartphone,Karan Malhotra,7,14629.56,102406.92,karan.malhotra@example.com,2026,3,Mar
+7386,2025-10-18,North,Apparel,Desk,Unknown,8,40274.0,322192.8,Not Provided,2025,10,Oct
+7387,2026-05-07,South,Apparel,Headphones,Unknown,4,,,Not Provided,2026,5,May
+7388,2026-08-07,East,Home & Kitchen,Office Chair,Sana Khan,7,33457.17,234200.19,sana.khan@example.com,2026,8,Aug
+7389,2025-12-15,South,Apparel,Jeans,Unknown,7,35904.0,251330.03,Not Provided,2025,12,Dec
+7390,2026-06-27,West,Apparel,Office Chair,Priya Menon,9,24620.43,221583.87,priya.menon@example.com,2026,6,Jun
+7391,2025-07-23,South,Home & Kitchen,Desk,Meera Iyer,2,22258.41,44516.82,meera.iyer@example.com,2025,7,Jul
+7392,2025-03-21,South,Apparel,Desk,Sana Khan,9,1377.07,12393.63,sana.khan@example.com,2025,3,Mar
+7393,2025-12-26,South,Apparel,Sofa,Aditi Rao,8,7305.91,58447.28,aditi.rao@example.com,2025,12,Dec
+7394,2026-01-25,East,Furniture,Jeans,Priya Menon,9,35515.51,319639.59,priya.menon@example.com,2026,1,Jan
+7395,2025-03-12,West,Electronics,Sneakers,Sana Khan,4,24578.45,98313.8,sana.khan@example.com,2025,3,Mar
+7396,2026-05-23,South,Home & Kitchen,Blender,Unknown,5,11522.36,57611.8,Not Provided,2026,5,May
+7397,2025-07-15,North,Home & Kitchen,Blender,Vikram Shah,6,39053.47,234320.82,vikram.shah@example.com,2025,7,Jul
+7398,2025-03-08,West,Electronics,Desk,Meera Iyer,9,11350.2,102151.8,meera.iyer@example.com,2025,3,Mar
+7399,2025-03-19,South,Furniture,Tablet,Rohan Gupta,,43015.67,,rohan.gupta@example.com,2025,3,Mar
+7400,2025-05-25,West,Electronics,Cookware Set,Arjun Nair,10,14786.0,147856.7,arjun.nair@example.com,2025,5,May
+7401,2026-08-21,North,Electronics,Laptop,Aditi Rao,2,34456.51,68913.02,aditi.rao@example.com,2026,8,Aug
+7402,2025-12-13,South,Electronics,Unknown,Meera Iyer,,19378.18,,meera.iyer@example.com,2025,12,Dec
+7403,2025-04-24,East,Furniture,Unknown,Aditi Rao,1,13135.84,13135.84,aditi.rao@example.com,2025,4,Apr
+7404,2025-08-28,South,Apparel,T-Shirt,Priya Menon,2,35671.14,71342.28,priya.menon@example.com,2025,8,Aug
+7405,2025-07-20,North,Furniture,Sofa,Aditi Rao,7,57923.99,405467.93,aditi.rao@example.com,2025,7,Jul
+7406,2026-04-21,Unknown,Home & Kitchen,Desk,Rohan Gupta,5,,,rohan.gupta@example.com,2026,4,Apr
+7407,2026-08-03,South,Furniture,Office Chair,Sana Khan,6,56351.93,338111.58,sana.khan@example.com,2026,8,Aug
+7408,2026-02-15,East,Electronics,Headphones,Unknown,8,17032.34,136258.72,Not Provided,2026,2,Feb
+7409,2025-02-06,South,Electronics,Sneakers,Rohan Gupta,10,11677.0,116772.8,rohan.gupta@example.com,2025,2,Feb
+7410,2026-03-27,West,Electronics,T-Shirt,Arjun Nair,5,57721.63,288608.15,arjun.nair@example.com,2026,3,Mar
+7411,2026-06-21,South,Electronics,Laptop,Unknown,10,3569.1,35691.0,Not Provided,2026,6,Jun
+7412,2025-02-16,South,Furniture,Office Chair,Arjun Nair,4,18410.0,73640.8,arjun.nair@example.com,2025,2,Feb
+7413,2025-03-03,North,Apparel,Cookware Set,Arjun Nair,1,25059.08,25059.08,arjun.nair@example.com,2025,3,Mar
+7414,2026-01-29,West,Apparel,Sofa,Vikram Shah,2,22372.22,44744.44,vikram.shah@example.com,2026,1,Jan
+7415,2025-07-12,East,Home & Kitchen,Blender,Vikram Shah,1,2138.08,2138.08,vikram.shah@example.com,2025,7,Jul
+7416,2026-02-11,North,Electronics,T-Shirt,Sana Khan,2,18320.0,36640.38,sana.khan@example.com,2026,2,Feb
+7417,2026-02-11,Unknown,Home & Kitchen,Office Chair,Aditi Rao,4,,,aditi.rao@example.com,2026,2,Feb
+7418,2025-04-13,North,Furniture,Headphones,Aditi Rao,9,21989.64,197906.76,aditi.rao@example.com,2025,4,Apr
+7419,2026-08-28,South,Electronics,Cookware Set,Rohan Gupta,4,,,rohan.gupta@example.com,2026,8,Aug
+7420,2025-02-16,South,Apparel,Sofa,Sana Khan,9,27679.91,249119.19,sana.khan@example.com,2025,2,Feb
+7421,2025-09-13,South,Home & Kitchen,Laptop,Vikram Shah,-2,3492.61,6985.22,vikram.shah@example.com,2025,9,Sep
+7422,2026-04-09,North,Home & Kitchen,Smartphone,Rohan Gupta,8,31509.52,252076.16,rohan.gupta@example.com,2026,4,Apr
+7423,2026-10-04,North,Home & Kitchen,Cookware Set,Arjun Nair,5,18847.45,94237.25,arjun.nair@example.com,2026,10,Oct
+7424,2026-10-07,Unknown,Apparel,Desk,Arjun Nair,2,45558.91,91117.82,arjun.nair@example.com,2026,10,Oct
+7425,2025-03-18,North,Home & Kitchen,Desk,Arjun Nair,7,26679.15,186754.05,arjun.nair@example.com,2025,3,Mar
+7426,2025-02-04,West,Electronics,Headphones,Rohan Gupta,,57506.32,,rohan.gupta@example.com,2025,2,Feb
+7427,2026-08-27,West,Apparel,Office Chair,Meera Iyer,1,34082.57,34082.57,meera.iyer@example.com,2026,8,Aug
+7428,2025-08-22,South,Electronics,Sneakers,Unknown,2,50355.0,100710.48,Not Provided,2025,8,Aug
+7429,2026-07-07,East,Apparel,Laptop,Sana Khan,10,45914.32,459143.2,sana.khan@example.com,2026,7,Jul
+7430,2025-06-10,East,Apparel,Sneakers,Karan Malhotra,3,24344.52,73033.56,karan.malhotra@example.com,2025,6,Jun
+7431,2026-08-03,North,Furniture,Smartphone,Meera Iyer,6,7728.06,46368.36,meera.iyer@example.com,2026,8,Aug
+7432,2025-02-06,Unknown,Furniture,Jeans,Arjun Nair,3,8726.25,26178.75,arjun.nair@example.com,2025,2,Feb
+7433,2025-08-27,South,Furniture,Laptop,Aditi Rao,9,57635.61,518720.49,aditi.rao@example.com,2025,8,Aug
+7434,2025-11-12,East,Home & Kitchen,Cookware Set,Aditi Rao,7,40172.89,281210.23,aditi.rao@example.com,2025,11,Nov
+7435,2026-04-11,East,Electronics,T-Shirt,Meera Iyer,1,34073.7,34073.7,meera.iyer@example.com,2026,4,Apr
+7436,2026-07-30,South,Apparel,Sneakers,Rohan Gupta,2,53201.67,106403.34,rohan.gupta@example.com,2026,7,Jul
+7437,2025-10-26,West,Electronics,Cookware Set,Priya Menon,4,43986.69,175946.76,priya.menon@example.com,2025,10,Oct
+7438,2025-06-16,West,Furniture,Jeans,Meera Iyer,6,29627.0,177759.72,meera.iyer@example.com,2025,6,Jun
+7439,2025-09-06,Unknown,Electronics,Blender,Meera Iyer,10,54148.01,541480.1,meera.iyer@example.com,2025,9,Sep
+7440,2026-01-04,South,Home & Kitchen,Desk,Meera Iyer,10,19614.04,196140.4,meera.iyer@example.com,2026,1,Jan
+7441,2025-12-10,East,Furniture,Blender,Vikram Shah,10,22688.95,226889.5,vikram.shah@example.com,2025,12,Dec
+7442,2025-04-20,West,Apparel,Cookware Set,Unknown,-10,22732.95,227329.5,Not Provided,2025,4,Apr
+7443,2026-04-24,West,Electronics,Sneakers,Unknown,10,16377.31,163773.1,Not Provided,2026,4,Apr
+7444,2025-09-27,West,Apparel,Unknown,Sana Khan,8,21264.5,170116.0,sana.khan@example.com,2025,9,Sep
+7445,2025-08-16,South,Electronics,Office Chair,Vikram Shah,9,18541.0,166871.88,vikram.shah@example.com,2025,8,Aug
+7446,2025-08-23,West,Apparel,Office Chair,Meera Iyer,2,51762.37,103524.74,meera.iyer@example.com,2025,8,Aug
+7447,2025-07-26,West,Apparel,Sofa,Unknown,5,43315.0,216574.6,Not Provided,2025,7,Jul
+7448,2025-06-07,South,Furniture,Desk,Arjun Nair,-8,47007.42,376059.36,arjun.nair@example.com,2025,6,Jun
+7449,2026-02-26,South,Furniture,Smartphone,Aditi Rao,10,7669.0,76688.6,aditi.rao@example.com,2026,2,Feb
+7450,2025-07-28,West,Apparel,Cookware Set,Sana Khan,4,28326.27,113305.08,sana.khan@example.com,2025,7,Jul
+7451,2025-01-04,North,Furniture,Cookware Set,Aditi Rao,1,,,aditi.rao@example.com,2025,1,Jan
+7452,2026-03-30,West,Apparel,Office Chair,Rohan Gupta,8,46636.13,373089.04,rohan.gupta@example.com,2026,3,Mar
+7453,2026-08-20,East,Apparel,Headphones,Rohan Gupta,2,40797.74,81595.48,rohan.gupta@example.com,2026,8,Aug
+7454,2026-05-07,South,Apparel,Sofa,Arjun Nair,1,27540.86,27540.86,arjun.nair@example.com,2026,5,May
+7455,2026-04-10,North,Apparel,Desk,Arjun Nair,3,6324.97,18974.91,arjun.nair@example.com,2026,4,Apr
+7456,2026-03-13,East,Home & Kitchen,Cookware Set,Rohan Gupta,2,48382.92,96765.84,rohan.gupta@example.com,2026,3,Mar
+7457,2026-05-25,South,Furniture,Sneakers,Rohan Gupta,4,9424.07,37696.28,rohan.gupta@example.com,2026,5,May
+7458,2025-03-29,East,Electronics,Jeans,Sana Khan,6,41444.05,248664.3,sana.khan@example.com,2025,3,Mar
+7459,2025-11-18,North,Electronics,Cookware Set,Karan Malhotra,8,36232.25,289858.0,karan.malhotra@example.com,2025,11,Nov
+7460,2025-03-03,East,Apparel,Sneakers,Vikram Shah,3,1551.89,4655.67,vikram.shah@example.com,2025,3,Mar
+7461,2025-05-30,Unknown,Electronics,Desk,Karan Malhotra,4,37168.0,148672.92,karan.malhotra@example.com,2025,5,May
+7462,2025-12-09,North,Electronics,Cookware Set,Meera Iyer,2,59510.84,119021.68,meera.iyer@example.com,2025,12,Dec
+7463,2026-04-26,North,Electronics,Office Chair,Sana Khan,7,19344.0,135406.46,sana.khan@example.com,2026,4,Apr
+7464,2026-06-01,South,Apparel,Desk,Karan Malhotra,4,35413.23,141652.92,karan.malhotra@example.com,2026,6,Jun
+7465,2025-11-19,North,Apparel,Desk,Karan Malhotra,6,20367.1,122202.6,karan.malhotra@example.com,2025,11,Nov
+7466,2025-01-06,South,Apparel,Office Chair,Priya Menon,-3,15267.61,45802.83,priya.menon@example.com,2025,1,Jan
+7467,2026-03-13,West,Electronics,Jeans,Vikram Shah,7,59967.79,419774.53,vikram.shah@example.com,2026,3,Mar
+7468,2025-01-29,North,Electronics,Jeans,Vikram Shah,2,18231.0,36462.02,vikram.shah@example.com,2025,1,Jan
+7469,2025-05-13,East,Electronics,Smartphone,Priya Menon,7,10447.52,73132.64,priya.menon@example.com,2025,5,May
+7470,2025-04-20,West,Apparel,Sneakers,Rohan Gupta,8,36311.77,290494.16,rohan.gupta@example.com,2025,4,Apr
+7471,2025-10-25,West,Home & Kitchen,T-Shirt,Sana Khan,,57120.64,,sana.khan@example.com,2025,10,Oct
+7472,2026-08-05,West,Electronics,Jeans,Rohan Gupta,5,12983.48,64917.4,rohan.gupta@example.com,2026,8,Aug
+7473,2025-10-05,South,Apparel,Office Chair,Rohan Gupta,9,35617.41,320556.69,rohan.gupta@example.com,2025,10,Oct
+7474,2025-04-18,West,Furniture,Office Chair,Aditi Rao,3,7140.06,21420.18,aditi.rao@example.com,2025,4,Apr
+7475,2025-10-27,North,Home & Kitchen,Office Chair,Unknown,5,50432.87,252164.35,Not Provided,2025,10,Oct
+7476,2025-08-30,South,Electronics,Smartphone,Rohan Gupta,9,29766.98,267902.82,rohan.gupta@example.com,2025,8,Aug
+7477,2025-08-05,South,Home & Kitchen,Desk,Arjun Nair,5,2225.42,11127.1,arjun.nair@example.com,2025,8,Aug
+7478,2025-05-31,South,Apparel,Laptop,Unknown,1,59346.07,59346.07,Not Provided,2025,5,May
+7479,2026-07-29,South,Apparel,Blender,Unknown,9,53340.9,480068.1,Not Provided,2026,7,Jul
+7480,2026-03-18,West,Electronics,Laptop,Rohan Gupta,6,18253.5,109521.0,rohan.gupta@example.com,2026,3,Mar
+7481,2025-11-16,East,Electronics,Office Chair,Unknown,3,40849.27,122547.81,Not Provided,2025,11,Nov
+7482,2025-09-07,West,Home & Kitchen,T-Shirt,Meera Iyer,,55271.95,,meera.iyer@example.com,2025,9,Sep
+7483,2026-01-19,South,Apparel,Headphones,Priya Menon,5,48376.72,241883.6,priya.menon@example.com,2026,1,Jan
+7484,2026-01-05,South,Home & Kitchen,T-Shirt,Meera Iyer,4,30778.52,123114.08,meera.iyer@example.com,2026,1,Jan
+7485,2026-08-14,North,Electronics,Cookware Set,Sana Khan,6,58586.45,351518.7,sana.khan@example.com,2026,8,Aug
+7486,2026-04-25,East,Apparel,Unknown,Unknown,7,6907.43,48352.01,Not Provided,2026,4,Apr
+7487,2025-05-18,North,Home & Kitchen,Office Chair,Karan Malhotra,7,37651.9,263563.3,karan.malhotra@example.com,2025,5,May
+7488,2026-07-08,North,Home & Kitchen,Sneakers,Sana Khan,5,,,sana.khan@example.com,2026,7,Jul
+7489,2025-11-14,North,Apparel,Sneakers,Vikram Shah,2,51881.46,103762.92,vikram.shah@example.com,2025,11,Nov
+7490,2025-05-15,West,Electronics,Office Chair,Arjun Nair,3,11910.59,35731.77,arjun.nair@example.com,2025,5,May
+7491,2025-02-08,South,Apparel,Sofa,Meera Iyer,8,29371.36,234970.88,meera.iyer@example.com,2025,2,Feb
+7492,2025-12-02,West,Home & Kitchen,T-Shirt,Meera Iyer,6,16106.15,96636.9,meera.iyer@example.com,2025,12,Dec
+7493,2025-04-17,East,Apparel,Unknown,Arjun Nair,7,,,arjun.nair@example.com,2025,4,Apr
+7494,2025-10-03,North,Electronics,Sofa,Meera Iyer,6,53775.0,322648.08,meera.iyer@example.com,2025,10,Oct
+7495,2025-01-30,South,Electronics,Blender,Meera Iyer,3,17712.0,53135.16,meera.iyer@example.com,2025,1,Jan
+7496,2025-08-28,West,Electronics,Sofa,Priya Menon,-1,13545.41,13545.41,priya.menon@example.com,2025,8,Aug
+7497,2026-02-08,East,Furniture,Laptop,Vikram Shah,8,43536.84,348294.72,vikram.shah@example.com,2026,2,Feb
+7498,2025-12-18,West,Apparel,Sofa,Aditi Rao,8,15911.56,127292.48,aditi.rao@example.com,2025,12,Dec
+7499,2025-10-02,West,Electronics,Sneakers,Aditi Rao,9,42434.94,381914.46,aditi.rao@example.com,2025,10,Oct
+7500,2025-10-14,South,Home & Kitchen,Tablet,Unknown,1,35945.45,35945.45,Not Provided,2025,10,Oct
+7501,2025-04-07,North,Apparel,Laptop,Aditi Rao,8,30179.36,241434.88,aditi.rao@example.com,2025,4,Apr
+7502,2025-02-24,North,Electronics,Headphones,Unknown,5,36402.0,182009.05,Not Provided,2025,2,Feb
+7503,2025-10-19,Unknown,Apparel,Tablet,Aditi Rao,9,38867.37,349806.33,aditi.rao@example.com,2025,10,Oct
+7504,2026-08-17,North,Apparel,Cookware Set,Vikram Shah,-10,44426.14,444261.4,vikram.shah@example.com,2026,8,Aug
+7505,2026-06-20,Unknown,Electronics,Sneakers,Priya Menon,1,43727.42,43727.42,priya.menon@example.com,2026,6,Jun
+7506,2025-04-17,South,Home & Kitchen,Desk,Sana Khan,9,5596.0,50364.9,sana.khan@example.com,2025,4,Apr
+7507,2025-04-11,East,Apparel,Desk,Sana Khan,9,16182.0,145637.19,sana.khan@example.com,2025,4,Apr
+7508,2025-09-13,West,Furniture,Jeans,Meera Iyer,9,46555.8,419002.2,meera.iyer@example.com,2025,9,Sep
+7509,2025-03-29,West,Furniture,Headphones,Arjun Nair,10,45941.0,459408.5,arjun.nair@example.com,2025,3,Mar
+7510,2026-05-16,West,Electronics,Office Chair,Arjun Nair,4,53224.65,212898.6,arjun.nair@example.com,2026,5,May
+7511,2026-02-10,Unknown,Apparel,Headphones,Aditi Rao,3,,,aditi.rao@example.com,2026,2,Feb
+7512,2025-02-24,East,Electronics,Tablet,Meera Iyer,4,55123.63,220494.52,meera.iyer@example.com,2025,2,Feb
+7513,2026-07-05,East,Furniture,Smartphone,Arjun Nair,5,59690.66,298453.3,arjun.nair@example.com,2026,7,Jul
+7514,2025-12-10,South,Home & Kitchen,Sneakers,Meera Iyer,8,35967.08,287736.64,meera.iyer@example.com,2025,12,Dec
+7515,2025-12-05,West,Furniture,Sofa,Priya Menon,3,39063.87,117191.61,priya.menon@example.com,2025,12,Dec
+7516,2025-02-27,South,Electronics,Cookware Set,Priya Menon,2,47951.0,95902.3,priya.menon@example.com,2025,2,Feb
+7517,2025-10-03,South,Furniture,Sneakers,Vikram Shah,2,58844.58,117689.16,vikram.shah@example.com,2025,10,Oct
+7518,2026-04-12,East,Home & Kitchen,Tablet,Unknown,3,56852.0,170555.76,Not Provided,2026,4,Apr
+7519,2026-06-04,North,Apparel,Office Chair,Karan Malhotra,1,53283.0,53283.17,karan.malhotra@example.com,2026,6,Jun
+7520,2025-02-13,South,Home & Kitchen,Sofa,Aditi Rao,6,27141.0,162846.96,aditi.rao@example.com,2025,2,Feb
+7521,2025-09-09,East,Home & Kitchen,Sofa,Sana Khan,6,27628.0,165767.7,sana.khan@example.com,2025,9,Sep
+7522,2025-10-29,East,Home & Kitchen,Headphones,Karan Malhotra,2,24283.54,48567.08,karan.malhotra@example.com,2025,10,Oct
+7523,2025-12-13,West,Home & Kitchen,Sneakers,Rohan Gupta,3,18866.68,56600.04,rohan.gupta@example.com,2025,12,Dec
+7524,2026-01-21,West,Electronics,Jeans,Unknown,8,17469.95,139759.6,Not Provided,2026,1,Jan
+7525,2026-04-13,West,Furniture,Tablet,Aditi Rao,5,34034.08,170170.4,aditi.rao@example.com,2026,4,Apr
+7526,2025-08-29,North,Home & Kitchen,Smartphone,Vikram Shah,1,19788.08,19788.08,vikram.shah@example.com,2025,8,Aug
+7527,2026-02-07,North,Furniture,Sneakers,Aditi Rao,3,48458.53,145375.59,aditi.rao@example.com,2026,2,Feb
+7528,2025-11-25,North,Home & Kitchen,Laptop,Rohan Gupta,6,20087.99,120527.94,rohan.gupta@example.com,2025,11,Nov
+7529,2025-07-14,West,Furniture,Tablet,Unknown,2,13336.3,26672.6,Not Provided,2025,7,Jul
+7530,2025-07-12,East,Home & Kitchen,Blender,Sana Khan,2,4994.0,9987.82,sana.khan@example.com,2025,7,Jul
+7531,2026-08-21,East,Home & Kitchen,Office Chair,Priya Menon,3,17214.02,51642.06,priya.menon@example.com,2026,8,Aug
+7532,2025-01-03,North,Home & Kitchen,Sneakers,Rohan Gupta,4,18041.0,72164.4,rohan.gupta@example.com,2025,1,Jan
+7533,2025-11-20,South,Electronics,Desk,Priya Menon,10,7707.12,77071.2,priya.menon@example.com,2025,11,Nov
+7534,2025-11-02,North,Apparel,T-Shirt,Arjun Nair,,38194.04,,arjun.nair@example.com,2025,11,Nov
+7535,2025-04-04,North,Home & Kitchen,Jeans,Unknown,8,8866.37,70930.96,Not Provided,2025,4,Apr
+7536,2025-05-02,West,Furniture,T-Shirt,Vikram Shah,2,56714.0,113428.64,vikram.shah@example.com,2025,5,May
+7537,2026-07-28,East,Home & Kitchen,Sofa,Unknown,7,30951.34,216659.38,Not Provided,2026,7,Jul
+7538,2025-11-16,North,Apparel,Jeans,Vikram Shah,6,8851.74,53110.44,vikram.shah@example.com,2025,11,Nov
+7539,2025-09-30,West,Furniture,Office Chair,Priya Menon,9,46204.7,415842.3,priya.menon@example.com,2025,9,Sep
+7540,2026-03-15,South,Electronics,Sneakers,Aditi Rao,8,33474.63,267797.04,aditi.rao@example.com,2026,3,Mar
+7541,2026-01-17,West,Home & Kitchen,Headphones,Meera Iyer,9,52425.69,471831.21,meera.iyer@example.com,2026,1,Jan
+7542,2025-02-05,West,Electronics,Sneakers,Unknown,6,50972.13,305832.78,Not Provided,2025,2,Feb
+7543,2026-01-05,North,Apparel,Laptop,Sana Khan,3,35367.19,106101.57,sana.khan@example.com,2026,1,Jan
+7544,2025-07-08,South,Home & Kitchen,Headphones,Sana Khan,5,9388.17,46940.85,sana.khan@example.com,2025,7,Jul
+7545,2025-12-01,Unknown,Apparel,T-Shirt,Aditi Rao,2,32362.93,64725.86,aditi.rao@example.com,2025,12,Dec
+7546,2025-09-11,South,Apparel,Sneakers,Unknown,4,45596.0,182384.12,Not Provided,2025,9,Sep
+7547,2026-07-13,West,Furniture,Blender,Meera Iyer,5,31865.12,159325.6,meera.iyer@example.com,2026,7,Jul
+7548,2025-07-26,West,Electronics,Laptop,Meera Iyer,4,4107.43,16429.72,meera.iyer@example.com,2025,7,Jul
+7549,2025-01-01,East,Home & Kitchen,T-Shirt,Meera Iyer,1,26285.13,26285.13,meera.iyer@example.com,2025,1,Jan
+7550,2025-09-02,East,Home & Kitchen,Sneakers,Priya Menon,1,15922.48,15922.48,priya.menon@example.com,2025,9,Sep
+7551,2026-03-23,East,Home & Kitchen,Blender,Priya Menon,,2985.77,,priya.menon@example.com,2026,3,Mar
+7552,2025-04-10,East,Home & Kitchen,Sofa,Rohan Gupta,8,10886.55,87092.4,rohan.gupta@example.com,2025,4,Apr
+7553,2025-12-04,South,Apparel,Headphones,Unknown,5,54429.32,272146.6,Not Provided,2025,12,Dec
+7554,2025-01-31,East,Furniture,Headphones,Unknown,3,21372.66,64117.98,Not Provided,2025,1,Jan
+7555,2026-08-12,South,Home & Kitchen,Sofa,Meera Iyer,7,2791.07,19537.49,meera.iyer@example.com,2026,8,Aug
+7556,2026-05-03,North,Electronics,Tablet,Aditi Rao,4,21806.06,87224.24,aditi.rao@example.com,2026,5,May
+7557,2026-06-30,West,Apparel,Headphones,Arjun Nair,10,47973.12,479731.2,arjun.nair@example.com,2026,6,Jun
+7558,2026-08-29,South,Apparel,Desk,Vikram Shah,10,44309.0,443089.2,vikram.shah@example.com,2026,8,Aug
+7559,2025-01-01,East,Apparel,Headphones,Rohan Gupta,10,8590.0,85898.6,rohan.gupta@example.com,2025,1,Jan
+7560,2025-10-11,South,Home & Kitchen,Blender,Karan Malhotra,4,30588.62,122354.48,karan.malhotra@example.com,2025,10,Oct
+7561,2025-07-21,East,Electronics,Cookware Set,Aditi Rao,2,57404.0,114807.4,aditi.rao@example.com,2025,7,Jul
+7562,2026-04-10,West,Home & Kitchen,Headphones,Aditi Rao,-3,39910.79,119732.37,aditi.rao@example.com,2026,4,Apr
+7563,2025-04-01,South,Home & Kitchen,Blender,Unknown,6,38903.23,233419.38,Not Provided,2025,4,Apr
+7564,2026-01-05,West,Electronics,Jeans,Priya Menon,4,12885.01,51540.04,priya.menon@example.com,2026,1,Jan
+7565,2026-06-02,North,Home & Kitchen,Headphones,Sana Khan,,32785.88,,sana.khan@example.com,2026,6,Jun
+7566,2025-11-24,South,Home & Kitchen,Unknown,Meera Iyer,2,10669.11,21338.22,meera.iyer@example.com,2025,11,Nov
+7567,2025-01-06,East,Electronics,Tablet,Aditi Rao,,11346.71,,aditi.rao@example.com,2025,1,Jan
+7568,2025-11-14,West,Home & Kitchen,Laptop,Unknown,5,5991.1,29955.5,Not Provided,2025,11,Nov
+7569,2025-05-18,North,Furniture,Desk,Vikram Shah,10,26186.0,261859.6,vikram.shah@example.com,2025,5,May
+7570,2025-08-10,West,Home & Kitchen,Jeans,Vikram Shah,6,59724.95,358349.7,vikram.shah@example.com,2025,8,Aug
+7571,2025-06-05,West,Electronics,Desk,Sana Khan,9,45735.59,411620.31,sana.khan@example.com,2025,6,Jun
+7572,2026-04-20,West,Home & Kitchen,Laptop,Rohan Gupta,1,55540.0,55540.36,rohan.gupta@example.com,2026,4,Apr
+7573,2026-02-08,North,Apparel,Laptop,Unknown,3,18356.46,55069.38,Not Provided,2026,2,Feb
+7574,2026-05-18,North,Home & Kitchen,Sneakers,Sana Khan,6,6443.79,38662.74,sana.khan@example.com,2026,5,May
+7575,2026-01-30,East,Electronics,Tablet,Vikram Shah,8,11435.18,91481.44,vikram.shah@example.com,2026,1,Jan
+7576,2026-08-11,West,Electronics,Sofa,Vikram Shah,1,47950.0,47950.41,vikram.shah@example.com,2026,8,Aug
+7577,2026-03-29,North,Electronics,Office Chair,Aditi Rao,5,30714.0,153571.3,aditi.rao@example.com,2026,3,Mar
+7578,2025-03-30,East,Apparel,Jeans,Vikram Shah,7,37062.57,259437.99,vikram.shah@example.com,2025,3,Mar
+7579,2026-04-05,West,Electronics,Sneakers,Karan Malhotra,7,33270.62,232894.34,karan.malhotra@example.com,2026,4,Apr
+7580,2025-06-16,West,Furniture,Desk,Sana Khan,2,28787.35,57574.7,sana.khan@example.com,2025,6,Jun
+7581,2025-05-24,South,Apparel,Blender,Meera Iyer,5,26262.48,131312.4,meera.iyer@example.com,2025,5,May
+7582,2026-06-22,North,Home & Kitchen,Desk,Priya Menon,1,4403.0,4403.47,priya.menon@example.com,2026,6,Jun
+7583,2026-08-24,North,Furniture,Smartphone,Rohan Gupta,5,,,rohan.gupta@example.com,2026,8,Aug
+7584,2025-12-11,West,Electronics,Cookware Set,Arjun Nair,,10990.08,,arjun.nair@example.com,2025,12,Dec
+7585,2025-06-30,South,Electronics,T-Shirt,Priya Menon,1,,,priya.menon@example.com,2025,6,Jun
+7586,2025-02-22,West,Apparel,Jeans,Aditi Rao,6,31969.77,191818.62,aditi.rao@example.com,2025,2,Feb
+7587,2026-07-08,East,Electronics,Desk,Priya Menon,10,13782.21,137822.1,priya.menon@example.com,2026,7,Jul
+7588,2026-08-02,North,Home & Kitchen,Desk,Aditi Rao,9,26142.17,235279.53,aditi.rao@example.com,2026,8,Aug
+7589,2026-04-06,South,Electronics,Sofa,Aditi Rao,5,1554.08,7770.4,aditi.rao@example.com,2026,4,Apr
+7590,2025-07-17,North,Furniture,Laptop,Aditi Rao,8,15334.3,122674.4,aditi.rao@example.com,2025,7,Jul
+7591,2026-06-14,South,Apparel,T-Shirt,Unknown,7,44920.86,314446.02,Not Provided,2026,6,Jun
+7592,2025-10-19,West,Apparel,Office Chair,Unknown,,,,Not Provided,2025,10,Oct
+7593,2026-04-01,West,Electronics,Sneakers,Aditi Rao,6,22920.5,137523.0,aditi.rao@example.com,2026,4,Apr
+7594,2025-05-19,North,Home & Kitchen,Sneakers,Priya Menon,3,20477.6,61432.8,priya.menon@example.com,2025,5,May
+7595,2026-07-05,East,Home & Kitchen,Tablet,Arjun Nair,4,,,arjun.nair@example.com,2026,7,Jul
+7596,2025-08-08,North,Apparel,Sneakers,Arjun Nair,1,7398.39,7398.39,arjun.nair@example.com,2025,8,Aug
+7597,2026-08-09,West,Furniture,Sofa,Priya Menon,7,,,priya.menon@example.com,2026,8,Aug
+7598,2025-08-16,North,Home & Kitchen,Unknown,Priya Menon,4,29214.13,116856.52,priya.menon@example.com,2025,8,Aug
+7599,2025-06-02,Unknown,Home & Kitchen,Cookware Set,Vikram Shah,5,37674.57,188372.85,vikram.shah@example.com,2025,6,Jun
+7600,2025-01-02,East,Apparel,Blender,Unknown,6,34639.83,207838.98,Not Provided,2025,1,Jan
+7601,2026-01-14,North,Furniture,Headphones,Arjun Nair,,45378.93,,arjun.nair@example.com,2026,1,Jan
+7602,2025-10-19,North,Home & Kitchen,Headphones,Aditi Rao,-5,51301.44,256507.2,aditi.rao@example.com,2025,10,Oct
+7603,2026-05-31,South,Electronics,Headphones,Unknown,5,52953.01,264765.05,Not Provided,2026,5,May
+7604,2026-09-07,South,Apparel,Blender,Vikram Shah,1,50647.01,50647.01,vikram.shah@example.com,2026,9,Sep
+7605,2026-11-08,North,Home & Kitchen,Cookware Set,Rohan Gupta,5,39957.39,199786.95,rohan.gupta@example.com,2026,11,Nov
+7606,2026-06-11,North,Home & Kitchen,Sneakers,Priya Menon,10,22643.0,226433.1,priya.menon@example.com,2026,6,Jun
+7607,2025-08-06,East,Home & Kitchen,T-Shirt,Vikram Shah,5,58669.68,293348.4,vikram.shah@example.com,2025,8,Aug
+7608,2026-03-30,South,Furniture,Sneakers,Meera Iyer,9,7998.0,71977.59,meera.iyer@example.com,2026,3,Mar
+7609,2026-03-21,East,Apparel,Cookware Set,Sana Khan,8,40886.0,327089.6,sana.khan@example.com,2026,3,Mar
+7610,2026-01-14,North,Electronics,Cookware Set,Priya Menon,1,38295.86,38295.86,priya.menon@example.com,2026,1,Jan
+7611,2025-08-25,East,Furniture,T-Shirt,Rohan Gupta,,37315.06,,rohan.gupta@example.com,2025,8,Aug
+7612,2026-06-25,South,Furniture,Sofa,Unknown,4,30404.0,121617.4,Not Provided,2026,6,Jun
+7613,2025-04-22,East,Electronics,Cookware Set,Aditi Rao,4,54843.0,219372.76,aditi.rao@example.com,2025,4,Apr
+7614,2025-07-04,West,Home & Kitchen,T-Shirt,Unknown,8,39954.62,319636.96,Not Provided,2025,7,Jul
+7615,2025-02-02,East,Electronics,Sofa,Sana Khan,6,51349.79,308098.74,sana.khan@example.com,2025,2,Feb
+7616,2025-07-24,South,Electronics,Blender,Sana Khan,9,22443.46,201991.14,sana.khan@example.com,2025,7,Jul
+7617,2025-06-15,South,Home & Kitchen,Headphones,Karan Malhotra,9,14343.0,129088.08,karan.malhotra@example.com,2025,6,Jun
+7618,2025-09-18,East,Apparel,Tablet,Aditi Rao,4,57024.0,228096.0,aditi.rao@example.com,2025,9,Sep
+7619,2025-09-18,North,Home & Kitchen,Sneakers,Karan Malhotra,3,26219.07,78657.21,karan.malhotra@example.com,2025,9,Sep
+7620,2026-01-30,North,Furniture,Sneakers,Arjun Nair,5,55349.62,276748.1,arjun.nair@example.com,2026,1,Jan
+7621,2025-02-02,East,Furniture,Blender,Unknown,7,39880.09,279160.63,Not Provided,2025,2,Feb
+7622,2025-10-12,South,Apparel,Headphones,Karan Malhotra,8,37921.5,303372.0,karan.malhotra@example.com,2025,10,Oct
+7623,2026-03-23,North,Furniture,Headphones,Arjun Nair,4,17554.68,70218.72,arjun.nair@example.com,2026,3,Mar
+7624,2025-04-21,North,Apparel,Office Chair,Meera Iyer,8,20182.2,161457.6,meera.iyer@example.com,2025,4,Apr
+7625,2025-02-15,South,Electronics,Cookware Set,Arjun Nair,6,42962.5,257775.0,arjun.nair@example.com,2025,2,Feb
+7626,2025-12-16,East,Electronics,T-Shirt,Meera Iyer,9,34286.56,308579.04,meera.iyer@example.com,2025,12,Dec
+7627,2025-06-02,East,Apparel,Blender,Karan Malhotra,10,26805.66,268056.6,karan.malhotra@example.com,2025,6,Jun
+7628,2026-04-05,North,Apparel,Office Chair,Karan Malhotra,4,5094.0,20374.4,karan.malhotra@example.com,2026,4,Apr
+7629,2026-03-30,East,Home & Kitchen,Laptop,Priya Menon,7,53189.44,372326.08,priya.menon@example.com,2026,3,Mar
+7630,2025-01-29,East,Electronics,T-Shirt,Aditi Rao,,34366.71,,aditi.rao@example.com,2025,1,Jan
+7631,2026-08-20,West,Furniture,Unknown,Sana Khan,4,59443.79,237775.16,sana.khan@example.com,2026,8,Aug
+7632,2026-05-01,West,Home & Kitchen,Smartphone,Aditi Rao,9,42108.49,378976.41,aditi.rao@example.com,2026,5,May
+7633,2025-06-26,North,Apparel,Desk,Sana Khan,2,27719.0,55437.34,sana.khan@example.com,2025,6,Jun
+7634,2025-04-30,North,Home & Kitchen,T-Shirt,Priya Menon,7,2806.54,19645.78,priya.menon@example.com,2025,4,Apr
+7635,2025-11-16,West,Apparel,Tablet,Vikram Shah,6,584.55,3507.3,vikram.shah@example.com,2025,11,Nov
+7636,2025-12-13,East,Apparel,Laptop,Karan Malhotra,9,30769.82,276928.38,karan.malhotra@example.com,2025,12,Dec
+7637,2025-04-30,East,Electronics,Sneakers,Vikram Shah,7,56948.0,398636.07,vikram.shah@example.com,2025,4,Apr
+7638,2025-04-03,West,Home & Kitchen,Sneakers,Sana Khan,8,19722.69,157781.52,sana.khan@example.com,2025,4,Apr
+7639,2025-07-13,South,Electronics,Office Chair,Aditi Rao,8,16114.73,128917.84,aditi.rao@example.com,2025,7,Jul
+7640,2026-04-15,East,Home & Kitchen,Sneakers,Aditi Rao,2,,,aditi.rao@example.com,2026,4,Apr
+7641,2026-10-06,North,Furniture,T-Shirt,Aditi Rao,8,34519.58,276156.64,aditi.rao@example.com,2026,10,Oct
+7642,2025-10-01,West,Electronics,Cookware Set,Priya Menon,1,55274.12,55274.12,priya.menon@example.com,2025,10,Oct
+7643,2025-03-01,East,Home & Kitchen,Cookware Set,Sana Khan,4,14776.42,59105.68,sana.khan@example.com,2025,3,Mar
+7644,2025-07-24,East,Furniture,Smartphone,Priya Menon,7,58615.0,410305.77,priya.menon@example.com,2025,7,Jul
+7645,2025-09-25,East,Furniture,Sofa,Meera Iyer,,41240.41,,meera.iyer@example.com,2025,9,Sep
+7646,2026-07-09,East,Electronics,Cookware Set,Meera Iyer,5,43481.64,217408.2,meera.iyer@example.com,2026,7,Jul
+7647,2025-10-04,East,Electronics,Jeans,Sana Khan,5,21784.7,108923.5,sana.khan@example.com,2025,10,Oct
+7648,2026-08-08,North,Apparel,Jeans,Aditi Rao,3,8659.0,25975.77,aditi.rao@example.com,2026,8,Aug
+7649,2025-07-18,West,Electronics,Sneakers,Priya Menon,,33614.28,,priya.menon@example.com,2025,7,Jul
+7650,2025-05-05,West,Furniture,Sofa,Meera Iyer,9,32297.0,290675.52,meera.iyer@example.com,2025,5,May
+7651,2025-01-02,North,Apparel,T-Shirt,Sana Khan,,49783.0,,sana.khan@example.com,2025,1,Jan
+7652,2025-01-13,East,Furniture,Sneakers,Sana Khan,1,9214.0,9214.15,sana.khan@example.com,2025,1,Jan
+7653,2026-06-02,South,Furniture,Laptop,Aditi Rao,7,41474.01,290318.07,aditi.rao@example.com,2026,6,Jun
+7654,2026-07-29,Unknown,Home & Kitchen,Smartphone,Sana Khan,10,20884.39,208843.9,sana.khan@example.com,2026,7,Jul
+7655,2026-08-19,West,Home & Kitchen,Desk,Rohan Gupta,4,29928.0,119713.36,rohan.gupta@example.com,2026,8,Aug
+7656,2025-01-29,East,Furniture,Sneakers,Unknown,2,33097.23,66194.46,Not Provided,2025,1,Jan
+7657,2026-04-05,South,Electronics,Sneakers,Priya Menon,4,8671.38,34685.52,priya.menon@example.com,2026,4,Apr
+7658,2026-08-08,West,Furniture,Tablet,Priya Menon,6,40466.55,242799.3,priya.menon@example.com,2026,8,Aug
+7659,2026-03-31,West,Furniture,Headphones,Arjun Nair,3,40868.7,122606.1,arjun.nair@example.com,2026,3,Mar
+7660,2025-12-24,South,Furniture,Jeans,Priya Menon,9,38851.42,349662.78,priya.menon@example.com,2025,12,Dec
+7661,2026-06-20,South,Apparel,Office Chair,Vikram Shah,4,12603.55,50414.2,vikram.shah@example.com,2026,6,Jun
+7662,2026-02-19,West,Electronics,Smartphone,Priya Menon,,39562.0,,priya.menon@example.com,2026,2,Feb
+7663,2025-04-01,North,Home & Kitchen,Sneakers,Priya Menon,3,36503.12,109509.36,priya.menon@example.com,2025,4,Apr
+7664,2026-06-24,North,Furniture,Jeans,Vikram Shah,8,14356.05,114848.4,vikram.shah@example.com,2026,6,Jun
+7665,2026-01-12,South,Electronics,Laptop,Karan Malhotra,8,15008.96,120071.68,karan.malhotra@example.com,2026,1,Jan
+7666,2025-07-31,South,Home & Kitchen,Sofa,Priya Menon,4,34862.6,139450.4,priya.menon@example.com,2025,7,Jul
+7667,2026-07-01,South,Apparel,Office Chair,Aditi Rao,4,56412.59,225650.36,aditi.rao@example.com,2026,7,Jul
+7668,2026-01-24,South,Home & Kitchen,T-Shirt,Aditi Rao,8,52165.76,417326.08,aditi.rao@example.com,2026,1,Jan
+7669,2025-08-10,South,Home & Kitchen,Tablet,Unknown,7,51712.78,361989.46,Not Provided,2025,8,Aug
+7670,2026-05-22,North,Apparel,T-Shirt,Meera Iyer,,55151.0,,meera.iyer@example.com,2026,5,May
+7671,2026-05-14,North,Apparel,Smartphone,Karan Malhotra,6,23714.09,142284.54,karan.malhotra@example.com,2026,5,May
+7672,2026-04-03,East,Apparel,Smartphone,Rohan Gupta,10,40262.45,402624.5,rohan.gupta@example.com,2026,4,Apr
+7673,2026-02-20,East,Apparel,Desk,Unknown,1,31914.41,31914.41,Not Provided,2026,2,Feb
+7674,2025-05-30,West,Furniture,Desk,Unknown,8,59845.35,478762.8,Not Provided,2025,5,May
+7675,2025-07-17,East,Furniture,Smartphone,Unknown,5,48646.0,243231.65,Not Provided,2025,7,Jul
+7676,2026-12-03,West,Apparel,Cookware Set,Unknown,2,3342.38,6684.76,Not Provided,2026,12,Dec
+7677,2025-02-22,West,Furniture,Laptop,Meera Iyer,1,53677.0,53676.79,meera.iyer@example.com,2025,2,Feb
+7678,2025-07-16,North,Apparel,Desk,Karan Malhotra,7,24691.0,172839.52,karan.malhotra@example.com,2025,7,Jul
+7679,2025-04-23,South,Electronics,Tablet,Sana Khan,3,59433.47,178300.41,sana.khan@example.com,2025,4,Apr
+7680,2026-05-22,East,Electronics,Unknown,Sana Khan,10,32070.53,320705.3,sana.khan@example.com,2026,5,May
+7681,2025-06-28,East,Electronics,Desk,Arjun Nair,3,1257.11,3771.33,arjun.nair@example.com,2025,6,Jun
+7682,2026-02-12,South,Electronics,Unknown,Karan Malhotra,9,12885.0,115966.35,karan.malhotra@example.com,2026,2,Feb
+7683,2026-05-09,East,Electronics,Sofa,Sana Khan,9,28676.09,258084.81,sana.khan@example.com,2026,5,May
+7684,2026-01-08,West,Electronics,Sofa,Unknown,3,14491.0,43472.28,Not Provided,2026,1,Jan
+7685,2026-08-17,West,Apparel,Office Chair,Aditi Rao,8,520.57,4164.56,aditi.rao@example.com,2026,8,Aug
+7686,2025-05-21,North,Home & Kitchen,Cookware Set,Sana Khan,1,5604.46,5604.46,sana.khan@example.com,2025,5,May
+7687,2026-06-25,West,Home & Kitchen,Smartphone,Sana Khan,10,11428.0,114276.4,sana.khan@example.com,2026,6,Jun
+7688,2025-04-19,North,Furniture,Sneakers,Meera Iyer,6,45086.36,270518.16,meera.iyer@example.com,2025,4,Apr
+7689,2026-05-28,North,Apparel,Blender,Unknown,6,47329.89,283979.34,Not Provided,2026,5,May
+7690,2025-08-20,East,Apparel,Office Chair,Meera Iyer,4,44884.5,179538.0,meera.iyer@example.com,2025,8,Aug
+7691,2026-08-27,West,Electronics,Office Chair,Meera Iyer,7,55348.35,387438.45,meera.iyer@example.com,2026,8,Aug
+7692,2025-10-05,North,Furniture,Tablet,Priya Menon,10,30243.0,302433.6,priya.menon@example.com,2025,10,Oct
+7693,2025-03-13,North,Electronics,Desk,Karan Malhotra,3,15687.29,47061.87,karan.malhotra@example.com,2025,3,Mar
+7694,2026-04-09,North,Apparel,Sneakers,Vikram Shah,8,9537.45,76299.6,vikram.shah@example.com,2026,4,Apr
+7695,2026-04-19,North,Electronics,T-Shirt,Vikram Shah,6,16751.89,100511.34,vikram.shah@example.com,2026,4,Apr
+7696,2025-03-11,North,Home & Kitchen,Desk,Sana Khan,10,40777.0,407774.8,sana.khan@example.com,2025,3,Mar
+7697,2026-08-13,North,Electronics,Sofa,Vikram Shah,5,32304.36,161521.8,vikram.shah@example.com,2026,8,Aug
+7698,2026-04-16,South,Apparel,Sneakers,Sana Khan,4,48448.55,193794.2,sana.khan@example.com,2026,4,Apr
+7699,2026-08-04,South,Electronics,Sofa,Sana Khan,4,17080.87,68323.48,sana.khan@example.com,2026,8,Aug
+7700,2025-06-23,South,Apparel,T-Shirt,Vikram Shah,,12264.67,,vikram.shah@example.com,2025,6,Jun
+7701,2025-12-21,West,Home & Kitchen,Jeans,Arjun Nair,7,47000.57,329003.99,arjun.nair@example.com,2025,12,Dec
+7702,2026-08-24,North,Apparel,Sneakers,Sana Khan,,15488.59,,sana.khan@example.com,2026,8,Aug
+7703,2025-05-14,East,Home & Kitchen,Headphones,Vikram Shah,10,51205.0,512048.5,vikram.shah@example.com,2025,5,May
+7704,2026-04-06,North,Apparel,Cookware Set,Vikram Shah,7,52144.0,365005.76,vikram.shah@example.com,2026,4,Apr
+7705,2026-04-27,North,Apparel,Tablet,Meera Iyer,10,58126.26,581262.6,meera.iyer@example.com,2026,4,Apr
+7706,2025-05-31,East,Home & Kitchen,Tablet,Priya Menon,5,23622.11,118110.55,priya.menon@example.com,2025,5,May
+7707,2026-02-03,South,Apparel,T-Shirt,Aditi Rao,3,16577.96,49733.88,aditi.rao@example.com,2026,2,Feb
+7708,2025-05-11,West,Home & Kitchen,T-Shirt,Vikram Shah,10,9205.66,92056.6,vikram.shah@example.com,2025,5,May
+7709,2025-02-28,North,Home & Kitchen,Tablet,Vikram Shah,5,39774.7,198873.5,vikram.shah@example.com,2025,2,Feb
+7710,2026-06-21,East,Home & Kitchen,Sofa,Arjun Nair,9,36014.0,324122.67,arjun.nair@example.com,2026,6,Jun
+7711,2025-07-29,East,Apparel,Jeans,Vikram Shah,10,56935.98,569359.8,vikram.shah@example.com,2025,7,Jul
+7712,2025-12-18,West,Electronics,Headphones,Vikram Shah,4,11803.0,47212.12,vikram.shah@example.com,2025,12,Dec
+7713,2025-12-28,South,Apparel,Desk,Aditi Rao,5,58520.14,292600.7,aditi.rao@example.com,2025,12,Dec
+7714,2025-10-04,West,Electronics,Sneakers,Arjun Nair,4,17882.87,71531.48,arjun.nair@example.com,2025,10,Oct
+7715,2026-03-01,West,Furniture,Smartphone,Unknown,5,25323.0,126614.35,Not Provided,2026,3,Mar
+7716,2025-08-12,South,Furniture,Cookware Set,Vikram Shah,2,39487.49,78974.98,vikram.shah@example.com,2025,8,Aug
+7717,2025-06-08,North,Electronics,Jeans,Arjun Nair,4,17133.78,68535.12,arjun.nair@example.com,2025,6,Jun
+7718,2025-12-19,West,Electronics,T-Shirt,Priya Menon,7,57406.83,401847.81,priya.menon@example.com,2025,12,Dec
+7719,2025-07-14,Unknown,Electronics,Blender,Sana Khan,,,,sana.khan@example.com,2025,7,Jul
+7720,2025-11-14,North,Electronics,T-Shirt,Sana Khan,3,57595.33,172785.99,sana.khan@example.com,2025,11,Nov
+7721,2025-09-06,East,Electronics,Desk,Arjun Nair,4,57752.91,231011.64,arjun.nair@example.com,2025,9,Sep
+7722,2026-07-15,South,Electronics,Headphones,Vikram Shah,-9,16971.41,152742.69,vikram.shah@example.com,2026,7,Jul
+7723,2026-04-23,South,Home & Kitchen,Tablet,Priya Menon,1,8773.92,8773.92,priya.menon@example.com,2026,4,Apr
+7724,2025-10-21,South,Electronics,Office Chair,Sana Khan,7,26553.0,185868.9,sana.khan@example.com,2025,10,Oct
+7725,2025-03-14,North,Electronics,Tablet,Aditi Rao,9,20528.0,184753.98,aditi.rao@example.com,2025,3,Mar
+7726,2026-06-16,South,Apparel,Unknown,Vikram Shah,3,8753.51,26260.53,vikram.shah@example.com,2026,6,Jun
+7727,2026-04-14,North,Apparel,Jeans,Meera Iyer,3,39620.0,118859.97,meera.iyer@example.com,2026,4,Apr
+7728,2025-04-03,South,Electronics,Jeans,Priya Menon,1,23044.83,23044.83,priya.menon@example.com,2025,4,Apr
+7729,2025-02-01,East,Furniture,Sofa,Priya Menon,3,7723.88,23171.64,priya.menon@example.com,2025,2,Feb
+7730,2025-12-28,East,Home & Kitchen,Smartphone,Meera Iyer,1,50086.74,50086.74,meera.iyer@example.com,2025,12,Dec
+7731,2025-05-18,North,Electronics,Sneakers,Unknown,4,14170.0,56679.68,Not Provided,2025,5,May
+7732,2025-08-17,West,Home & Kitchen,Smartphone,Aditi Rao,2,33764.25,67528.5,aditi.rao@example.com,2025,8,Aug
+7733,2025-03-13,South,Apparel,T-Shirt,Vikram Shah,-9,56021.33,504191.97,vikram.shah@example.com,2025,3,Mar
+7734,2025-03-31,West,Electronics,Unknown,Arjun Nair,6,32336.35,194018.1,arjun.nair@example.com,2025,3,Mar
+7735,2025-12-06,South,Electronics,Tablet,Vikram Shah,,22507.0,,vikram.shah@example.com,2025,12,Dec
+7736,2025-12-09,Unknown,Electronics,Headphones,Priya Menon,6,58422.0,350531.82,priya.menon@example.com,2025,12,Dec
+7737,2026-02-04,South,Electronics,Laptop,Vikram Shah,10,36507.79,365077.9,vikram.shah@example.com,2026,2,Feb
+7738,2026-01-20,North,Electronics,Jeans,Sana Khan,1,25271.82,25271.82,sana.khan@example.com,2026,1,Jan
+7739,2026-06-22,North,Electronics,Tablet,Aditi Rao,10,9549.0,95489.6,aditi.rao@example.com,2026,6,Jun
+7740,2026-12-06,South,Apparel,Laptop,Aditi Rao,2,23121.81,46243.62,aditi.rao@example.com,2026,12,Dec
+7741,2026-05-07,North,Apparel,Sneakers,Rohan Gupta,2,50296.93,100593.86,rohan.gupta@example.com,2026,5,May
+7742,2025-10-07,East,Electronics,Headphones,Unknown,1,46650.0,46650.28,Not Provided,2025,10,Oct
+7743,2025-03-01,South,Electronics,Office Chair,Vikram Shah,3,6210.54,18631.62,vikram.shah@example.com,2025,3,Mar
+7744,2025-09-24,North,Electronics,Headphones,Vikram Shah,6,36283.72,217702.32,vikram.shah@example.com,2025,9,Sep
+7745,2026-08-10,East,Apparel,Jeans,Vikram Shah,7,53830.29,376812.03,vikram.shah@example.com,2026,8,Aug
+7746,2025-11-13,West,Apparel,Headphones,Unknown,9,17455.0,157094.82,Not Provided,2025,11,Nov
+7747,2026-01-17,North,Electronics,Cookware Set,Vikram Shah,6,13760.94,82565.64,vikram.shah@example.com,2026,1,Jan
+7748,2026-01-14,South,Home & Kitchen,Sofa,Arjun Nair,3,,,arjun.nair@example.com,2026,1,Jan
+7749,2026-03-02,North,Furniture,Headphones,Arjun Nair,7,,,arjun.nair@example.com,2026,3,Mar
+7750,2025-05-03,West,Electronics,Desk,Vikram Shah,9,48226.58,434039.22,vikram.shah@example.com,2025,5,May
+7751,2026-06-12,West,Furniture,Tablet,Sana Khan,6,6990.0,41942.4,sana.khan@example.com,2026,6,Jun
+7752,2025-01-10,West,Electronics,Tablet,Vikram Shah,9,52485.56,472370.04,vikram.shah@example.com,2025,1,Jan
+7753,2025-07-10,South,Furniture,Office Chair,Rohan Gupta,,24166.51,,rohan.gupta@example.com,2025,7,Jul
+7754,2026-03-12,South,Furniture,Sneakers,Priya Menon,,31113.52,,priya.menon@example.com,2026,3,Mar
+7755,2026-07-05,North,Home & Kitchen,Sneakers,Aditi Rao,1,8676.25,8676.25,aditi.rao@example.com,2026,7,Jul
+7756,2025-07-01,East,Electronics,Blender,Unknown,7,,,Not Provided,2025,7,Jul
+7757,2025-10-17,North,Home & Kitchen,Blender,Rohan Gupta,7,49165.51,344158.57,rohan.gupta@example.com,2025,10,Oct
+7758,2025-01-28,West,Furniture,Blender,Unknown,1,41713.94,41713.94,Not Provided,2025,1,Jan
+7759,2026-01-15,West,Home & Kitchen,Laptop,Karan Malhotra,10,56159.32,561593.2,karan.malhotra@example.com,2026,1,Jan
+7760,2025-08-15,North,Home & Kitchen,Office Chair,Karan Malhotra,9,54201.96,487817.64,karan.malhotra@example.com,2025,8,Aug
+7761,2025-06-15,South,Home & Kitchen,Headphones,Rohan Gupta,8,58173.0,465387.68,rohan.gupta@example.com,2025,6,Jun
+7762,2026-06-27,West,Apparel,Jeans,Arjun Nair,10,34737.0,347368.8,arjun.nair@example.com,2026,6,Jun
+7763,2025-11-17,North,Apparel,Jeans,Arjun Nair,9,51948.85,467539.65,arjun.nair@example.com,2025,11,Nov
+7764,2025-02-04,West,Home & Kitchen,Blender,Unknown,9,53892.93,485036.37,Not Provided,2025,2,Feb
+7765,2026-02-21,North,Home & Kitchen,Cookware Set,Karan Malhotra,3,13999.69,41999.07,karan.malhotra@example.com,2026,2,Feb
+7766,2025-12-11,North,Home & Kitchen,T-Shirt,Meera Iyer,8,26672.63,213381.04,meera.iyer@example.com,2025,12,Dec
+7767,2026-08-15,South,Electronics,Sofa,Sana Khan,2,17322.0,34644.48,sana.khan@example.com,2026,8,Aug
+7768,2026-01-24,South,Electronics,Sofa,Sana Khan,9,33411.84,300706.56,sana.khan@example.com,2026,1,Jan
+7769,2025-10-20,East,Electronics,Headphones,Meera Iyer,3,58600.0,175800.12,meera.iyer@example.com,2025,10,Oct
+7770,2025-09-10,South,Electronics,Desk,Priya Menon,7,28207.03,197449.21,priya.menon@example.com,2025,9,Sep
+7771,2025-04-04,East,Electronics,T-Shirt,Aditi Rao,5,29019.83,145099.15,aditi.rao@example.com,2025,4,Apr
+7772,2026-04-25,West,Electronics,Smartphone,Aditi Rao,2,35082.0,70163.72,aditi.rao@example.com,2026,4,Apr
+7773,2025-10-29,East,Furniture,Office Chair,Priya Menon,2,45770.97,91541.94,priya.menon@example.com,2025,10,Oct
+7774,2026-02-05,South,Apparel,Laptop,Rohan Gupta,4,26418.14,105672.56,rohan.gupta@example.com,2026,2,Feb
+7775,2025-11-20,South,Furniture,Office Chair,Rohan Gupta,10,2616.38,26163.8,rohan.gupta@example.com,2025,11,Nov
+7776,2025-04-22,West,Furniture,Smartphone,Sana Khan,4,53294.56,213178.24,sana.khan@example.com,2025,4,Apr
+7777,2025-03-21,South,Furniture,Tablet,Aditi Rao,9,31649.95,284849.55,aditi.rao@example.com,2025,3,Mar
+7778,2025-03-15,North,Electronics,Office Chair,Karan Malhotra,3,58098.19,174294.57,karan.malhotra@example.com,2025,3,Mar
+7779,2025-11-02,South,Home & Kitchen,Sneakers,Karan Malhotra,9,52717.0,474451.92,karan.malhotra@example.com,2025,11,Nov
+7780,2025-03-20,West,Furniture,Laptop,Karan Malhotra,10,25888.65,258886.5,karan.malhotra@example.com,2025,3,Mar
+7781,2025-11-07,North,Furniture,T-Shirt,Vikram Shah,-3,20716.06,62148.18,vikram.shah@example.com,2025,11,Nov
+7782,2026-06-20,North,Home & Kitchen,Jeans,Aditi Rao,-2,51381.38,102762.76,aditi.rao@example.com,2026,6,Jun
+7783,2025-10-29,West,Home & Kitchen,Sneakers,Priya Menon,7,41296.12,289072.84,priya.menon@example.com,2025,10,Oct
+7784,2026-03-27,North,Electronics,Sofa,Aditi Rao,10,59085.6,590856.0,aditi.rao@example.com,2026,3,Mar
+7785,2025-03-14,North,Electronics,Sofa,Sana Khan,9,49547.67,445929.03,sana.khan@example.com,2025,3,Mar
+7786,2025-11-25,West,Furniture,Sneakers,Rohan Gupta,4,41671.64,166686.56,rohan.gupta@example.com,2025,11,Nov
+7787,2026-07-21,East,Apparel,Laptop,Unknown,3,,,Not Provided,2026,7,Jul
+7788,2025-11-10,West,Apparel,Tablet,Priya Menon,6,36220.0,217322.76,priya.menon@example.com,2025,11,Nov
+7789,2025-09-29,West,Apparel,Unknown,Meera Iyer,8,11300.0,90400.0,meera.iyer@example.com,2025,9,Sep
+7790,2025-05-05,South,Home & Kitchen,Jeans,Rohan Gupta,2,539.59,1079.18,rohan.gupta@example.com,2025,5,May
+7791,2026-02-08,North,Electronics,Office Chair,Arjun Nair,,25910.85,,arjun.nair@example.com,2026,2,Feb
+7792,2026-04-27,East,Furniture,Jeans,Unknown,5,14993.78,74968.9,Not Provided,2026,4,Apr
+7793,2026-02-21,North,Home & Kitchen,Laptop,Meera Iyer,7,18919.2,132434.4,meera.iyer@example.com,2026,2,Feb
+7794,2026-04-21,West,Electronics,Tablet,Vikram Shah,9,30297.78,272680.02,vikram.shah@example.com,2026,4,Apr
+7795,2025-03-02,East,Home & Kitchen,Office Chair,Sana Khan,3,44565.0,133694.04,sana.khan@example.com,2025,3,Mar
+7796,2025-11-20,East,Electronics,Blender,Vikram Shah,,659.43,,vikram.shah@example.com,2025,11,Nov
+7797,2026-03-31,East,Electronics,Sofa,Meera Iyer,9,5687.0,51187.05,meera.iyer@example.com,2026,3,Mar
+7798,2025-07-23,North,Apparel,Sneakers,Unknown,8,57279.8,458238.4,Not Provided,2025,7,Jul
+7799,2025-01-18,South,Electronics,Jeans,Vikram Shah,9,,,vikram.shah@example.com,2025,1,Jan
+7800,2026-08-04,South,Furniture,Sofa,Rohan Gupta,1,10769.0,10769.06,rohan.gupta@example.com,2026,8,Aug
+7801,2026-05-01,West,Home & Kitchen,Sneakers,Aditi Rao,6,1458.0,8746.2,aditi.rao@example.com,2026,5,May
+7802,2026-05-04,East,Furniture,Sofa,Unknown,8,,,Not Provided,2026,5,May
+7803,2025-05-09,West,Furniture,Sofa,Meera Iyer,8,52960.65,423685.2,meera.iyer@example.com,2025,5,May
+7804,2025-03-09,East,Apparel,Blender,Sana Khan,8,43492.86,347942.88,sana.khan@example.com,2025,3,Mar
+7805,2025-09-26,East,Apparel,Desk,Karan Malhotra,1,20453.0,20453.1,karan.malhotra@example.com,2025,9,Sep
+7806,2026-08-21,Unknown,Electronics,Smartphone,Karan Malhotra,1,45691.44,45691.44,karan.malhotra@example.com,2026,8,Aug
+7807,2025-09-25,Unknown,Electronics,Headphones,Rohan Gupta,4,58575.0,234300.52,rohan.gupta@example.com,2025,9,Sep
+7808,2026-02-23,West,Home & Kitchen,Office Chair,Rohan Gupta,7,53254.71,372782.97,rohan.gupta@example.com,2026,2,Feb
+7809,2025-01-22,East,Home & Kitchen,Cookware Set,Unknown,6,59527.0,357161.34,Not Provided,2025,1,Jan
+7810,2026-08-29,South,Furniture,T-Shirt,Unknown,9,24005.48,216049.32,Not Provided,2026,8,Aug
+7811,2025-12-17,West,Electronics,Sneakers,Karan Malhotra,4,55504.92,222019.68,karan.malhotra@example.com,2025,12,Dec
+7812,2026-06-22,South,Home & Kitchen,Desk,Rohan Gupta,2,50697.0,101393.38,rohan.gupta@example.com,2026,6,Jun
+7813,2026-02-04,Unknown,Electronics,Smartphone,Karan Malhotra,1,48087.95,48087.95,karan.malhotra@example.com,2026,2,Feb
+7814,2026-08-06,West,Home & Kitchen,Sneakers,Aditi Rao,8,1715.43,13723.44,aditi.rao@example.com,2026,8,Aug
+7815,2026-07-23,West,Furniture,T-Shirt,Rohan Gupta,9,54059.91,486539.19,rohan.gupta@example.com,2026,7,Jul
+7816,2025-08-30,South,Furniture,Blender,Unknown,4,44873.28,179493.12,Not Provided,2025,8,Aug
+7817,2025-12-22,North,Home & Kitchen,Headphones,Priya Menon,4,35753.93,143015.72,priya.menon@example.com,2025,12,Dec
+7818,2025-04-12,North,Home & Kitchen,Cookware Set,Rohan Gupta,10,54808.22,548082.2,rohan.gupta@example.com,2025,4,Apr
+7819,2026-12-03,South,Apparel,T-Shirt,Rohan Gupta,,42287.4,,rohan.gupta@example.com,2026,12,Dec
+7820,2025-12-11,East,Furniture,Sneakers,Karan Malhotra,2,36693.05,73386.1,karan.malhotra@example.com,2025,12,Dec
+7821,2025-06-24,North,Furniture,Sofa,Sana Khan,2,14861.0,29721.04,sana.khan@example.com,2025,6,Jun
+7822,2025-12-30,East,Apparel,Sneakers,Aditi Rao,7,3688.2,25817.4,aditi.rao@example.com,2025,12,Dec
+7823,2026-05-22,North,Electronics,Cookware Set,Vikram Shah,1,36426.21,36426.21,vikram.shah@example.com,2026,5,May
+7824,2025-08-10,South,Apparel,Blender,Priya Menon,3,43993.0,131978.4,priya.menon@example.com,2025,8,Aug
+7825,2026-08-08,South,Apparel,Blender,Unknown,9,7663.24,68969.16,Not Provided,2026,8,Aug
+7826,2025-11-01,West,Electronics,Sofa,Rohan Gupta,,33925.0,,rohan.gupta@example.com,2025,11,Nov
+7827,2025-09-21,South,Furniture,Smartphone,Aditi Rao,3,7606.0,22818.87,aditi.rao@example.com,2025,9,Sep
+7828,2025-11-15,South,Furniture,Office Chair,Priya Menon,5,21073.42,105367.1,priya.menon@example.com,2025,11,Nov
+7829,2026-11-02,North,Home & Kitchen,Desk,Vikram Shah,5,15549.35,77746.75,vikram.shah@example.com,2026,11,Nov
+7830,2025-09-19,East,Apparel,Headphones,Sana Khan,10,47831.57,478315.7,sana.khan@example.com,2025,9,Sep
+7831,2025-12-04,East,Furniture,Blender,Sana Khan,10,30590.52,305905.2,sana.khan@example.com,2025,12,Dec
+7832,2025-11-27,South,Apparel,Jeans,Vikram Shah,1,1509.0,1509.19,vikram.shah@example.com,2025,11,Nov
+7833,2025-08-28,North,Apparel,Desk,Unknown,3,678.13,2034.39,Not Provided,2025,8,Aug
+7834,2025-05-26,North,Apparel,Desk,Rohan Gupta,9,21213.0,190919.88,rohan.gupta@example.com,2025,5,May
+7835,2025-08-30,North,Electronics,Headphones,Karan Malhotra,10,,,karan.malhotra@example.com,2025,8,Aug
+7836,2025-08-05,West,Apparel,Headphones,Sana Khan,4,52854.69,211418.76,sana.khan@example.com,2025,8,Aug
+7837,2026-02-12,South,Electronics,Sneakers,Sana Khan,8,45578.0,364620.4,sana.khan@example.com,2026,2,Feb
+7838,2025-01-31,West,Home & Kitchen,Smartphone,Sana Khan,7,40736.47,285155.29,sana.khan@example.com,2025,1,Jan
+7839,2025-08-03,East,Home & Kitchen,Blender,Unknown,10,6154.95,61549.5,Not Provided,2025,8,Aug
+7840,2026-01-14,South,Furniture,Headphones,Arjun Nair,3,53650.0,160951.02,arjun.nair@example.com,2026,1,Jan
+7841,2025-11-03,West,Electronics,Sneakers,Vikram Shah,10,13695.24,136952.4,vikram.shah@example.com,2025,11,Nov
+7842,2026-02-25,East,Home & Kitchen,T-Shirt,Arjun Nair,10,47070.56,470705.6,arjun.nair@example.com,2026,2,Feb
+7843,2026-06-11,West,Home & Kitchen,Laptop,Karan Malhotra,8,32625.0,261000.96,karan.malhotra@example.com,2026,6,Jun
+7844,2025-08-25,East,Electronics,Blender,Karan Malhotra,4,57223.84,228895.36,karan.malhotra@example.com,2025,8,Aug
+7845,2025-04-22,West,Home & Kitchen,Tablet,Vikram Shah,2,1319.64,2639.28,vikram.shah@example.com,2025,4,Apr
+7846,2026-03-20,South,Electronics,Smartphone,Karan Malhotra,5,18356.99,91784.95,karan.malhotra@example.com,2026,3,Mar
+7847,2026-06-25,North,Home & Kitchen,Laptop,Meera Iyer,4,23633.31,94533.24,meera.iyer@example.com,2026,6,Jun
+7848,2025-05-06,West,Home & Kitchen,Sneakers,Priya Menon,7,52466.32,367264.24,priya.menon@example.com,2025,5,May
+7849,2025-12-18,Unknown,Electronics,Jeans,Meera Iyer,4,16308.82,65235.28,meera.iyer@example.com,2025,12,Dec
+7850,2025-05-15,West,Electronics,Smartphone,Karan Malhotra,3,57388.33,172164.99,karan.malhotra@example.com,2025,5,May
+7851,2025-03-13,East,Apparel,Blender,Meera Iyer,,20026.22,,meera.iyer@example.com,2025,3,Mar
+7852,2026-01-21,South,Electronics,Blender,Karan Malhotra,7,9273.33,64913.31,karan.malhotra@example.com,2026,1,Jan
+7853,2026-10-06,West,Electronics,Jeans,Priya Menon,,8155.98,,priya.menon@example.com,2026,10,Oct
+7854,2025-08-21,North,Furniture,Jeans,Sana Khan,4,47615.82,190463.28,sana.khan@example.com,2025,8,Aug
+7855,2025-01-17,South,Electronics,Headphones,Unknown,1,25349.39,25349.39,Not Provided,2025,1,Jan
+7856,2025-08-27,North,Furniture,Smartphone,Aditi Rao,3,54755.58,164266.74,aditi.rao@example.com,2025,8,Aug
+7857,2025-07-31,East,Electronics,Desk,Meera Iyer,1,26066.1,26066.1,meera.iyer@example.com,2025,7,Jul
+7858,2026-05-21,South,Furniture,Smartphone,Sana Khan,8,37005.0,296037.68,sana.khan@example.com,2026,5,May
+7859,2026-01-23,South,Apparel,Blender,Aditi Rao,4,9462.57,37850.28,aditi.rao@example.com,2026,1,Jan
+7860,2025-11-15,South,Home & Kitchen,Laptop,Unknown,7,28053.89,196377.23,Not Provided,2025,11,Nov
+7861,2026-05-08,East,Home & Kitchen,Desk,Unknown,10,58251.18,582511.8,Not Provided,2026,5,May
+7862,2026-03-15,West,Furniture,Smartphone,Arjun Nair,4,21102.28,84409.12,arjun.nair@example.com,2026,3,Mar
+7863,2025-08-01,West,Electronics,Tablet,Sana Khan,9,33527.78,301750.02,sana.khan@example.com,2025,8,Aug
+7864,2026-02-27,Unknown,Home & Kitchen,Sneakers,Karan Malhotra,6,58125.0,348750.06,karan.malhotra@example.com,2026,2,Feb
+7865,2025-02-16,West,Electronics,Office Chair,Arjun Nair,5,19968.57,99842.85,arjun.nair@example.com,2025,2,Feb
+7866,2026-01-17,West,Furniture,Headphones,Unknown,7,33603.0,235221.56,Not Provided,2026,1,Jan
+7867,2025-10-20,South,Furniture,Sneakers,Sana Khan,8,18815.0,150522.0,sana.khan@example.com,2025,10,Oct
+7868,2025-09-10,North,Home & Kitchen,Office Chair,Karan Malhotra,9,45706.84,411361.56,karan.malhotra@example.com,2025,9,Sep
+7869,2025-08-25,West,Apparel,Laptop,Arjun Nair,7,33430.6,234014.2,arjun.nair@example.com,2025,8,Aug
+7870,2026-02-08,South,Apparel,Office Chair,Aditi Rao,1,,,aditi.rao@example.com,2026,2,Feb
+7871,2025-05-16,South,Electronics,Headphones,Priya Menon,6,27259.0,163556.58,priya.menon@example.com,2025,5,May
+7872,2026-12-08,South,Home & Kitchen,Office Chair,Meera Iyer,1,51779.0,51779.09,meera.iyer@example.com,2026,12,Dec
+7873,2025-09-08,North,Apparel,Sneakers,Aditi Rao,,53723.0,,aditi.rao@example.com,2025,9,Sep
+7874,2025-05-15,West,Electronics,Cookware Set,Aditi Rao,4,,,aditi.rao@example.com,2025,5,May
+7875,2026-06-30,South,Apparel,Sneakers,Vikram Shah,2,17170.94,34341.88,vikram.shah@example.com,2026,6,Jun
+7876,2025-08-28,South,Home & Kitchen,Office Chair,Arjun Nair,9,16534.76,148812.84,arjun.nair@example.com,2025,8,Aug
+7877,2025-08-25,South,Electronics,Laptop,Karan Malhotra,4,,,karan.malhotra@example.com,2025,8,Aug
+7878,2025-04-24,South,Home & Kitchen,Desk,Unknown,9,43256.55,389308.95,Not Provided,2025,4,Apr
+7879,2025-11-15,West,Apparel,Sneakers,Priya Menon,7,15725.0,110075.35,priya.menon@example.com,2025,11,Nov
+7880,2025-01-04,North,Electronics,Sofa,Unknown,1,25098.04,25098.04,Not Provided,2025,1,Jan
+7881,2026-07-30,North,Home & Kitchen,Laptop,Meera Iyer,7,32032.0,224226.52,meera.iyer@example.com,2026,7,Jul
+7882,2025-07-06,North,Home & Kitchen,Tablet,Sana Khan,2,18736.0,37472.58,sana.khan@example.com,2025,7,Jul
+7883,2025-06-30,North,Electronics,Sneakers,Unknown,7,10660.05,74620.35,Not Provided,2025,6,Jun
+7884,2026-04-29,East,Furniture,Office Chair,Vikram Shah,2,7782.07,15564.14,vikram.shah@example.com,2026,4,Apr
+7885,2026-05-05,West,Furniture,Tablet,Rohan Gupta,,,,rohan.gupta@example.com,2026,5,May
+7886,2025-04-11,South,Home & Kitchen,Desk,Aditi Rao,6,6956.29,41737.74,aditi.rao@example.com,2025,4,Apr
+7887,2025-11-15,South,Home & Kitchen,Desk,Vikram Shah,5,34913.49,174567.45,vikram.shah@example.com,2025,11,Nov
+7888,2026-02-07,North,Home & Kitchen,Office Chair,Priya Menon,4,26832.97,107331.88,priya.menon@example.com,2026,2,Feb
+7889,2026-05-03,South,Furniture,Sneakers,Rohan Gupta,6,42493.0,254959.8,rohan.gupta@example.com,2026,5,May
+7890,2025-12-11,South,Home & Kitchen,T-Shirt,Karan Malhotra,9,50865.74,457791.66,karan.malhotra@example.com,2025,12,Dec
+7891,2025-04-01,South,Electronics,Jeans,Karan Malhotra,1,598.01,598.01,karan.malhotra@example.com,2025,4,Apr
+7892,2025-01-30,South,Home & Kitchen,Unknown,Sana Khan,7,9135.19,63946.33,sana.khan@example.com,2025,1,Jan
+7893,2026-01-14,West,Electronics,Laptop,Meera Iyer,,53585.22,,meera.iyer@example.com,2026,1,Jan
+7894,2025-05-03,East,Electronics,Headphones,Aditi Rao,5,34007.9,170039.5,aditi.rao@example.com,2025,5,May
+7895,2025-09-11,West,Electronics,Jeans,Arjun Nair,9,21841.5,196573.5,arjun.nair@example.com,2025,9,Sep
+7896,2026-06-23,West,Home & Kitchen,Sofa,Vikram Shah,8,47451.0,379605.04,vikram.shah@example.com,2026,6,Jun
+7897,2025-06-15,East,Apparel,Cookware Set,Sana Khan,9,49605.88,446452.92,sana.khan@example.com,2025,6,Jun
+7898,2025-12-30,East,Apparel,Sofa,Priya Menon,5,13999.1,69995.5,priya.menon@example.com,2025,12,Dec
+7899,2025-07-12,East,Home & Kitchen,Smartphone,Meera Iyer,9,56377.0,507397.41,meera.iyer@example.com,2025,7,Jul
+7900,2025-12-07,West,Apparel,Tablet,Aditi Rao,6,8527.58,51165.48,aditi.rao@example.com,2025,12,Dec
+7901,2026-01-24,North,Electronics,Laptop,Unknown,6,10569.19,63415.14,Not Provided,2026,1,Jan
+7902,2025-05-03,East,Electronics,Tablet,Sana Khan,9,43856.0,394707.6,sana.khan@example.com,2025,5,May
+7903,2026-04-14,South,Furniture,Headphones,Priya Menon,3,22008.28,66024.84,priya.menon@example.com,2026,4,Apr
+7904,2026-01-25,West,Apparel,Smartphone,Sana Khan,6,1679.0,10075.86,sana.khan@example.com,2026,1,Jan
+7905,2025-10-22,West,Apparel,Headphones,Karan Malhotra,5,,,karan.malhotra@example.com,2025,10,Oct
+7906,2026-05-08,East,Furniture,Blender,Vikram Shah,8,55410.17,443281.36,vikram.shah@example.com,2026,5,May
+7907,2025-03-13,East,Apparel,Office Chair,Rohan Gupta,5,11032.43,55162.15,rohan.gupta@example.com,2025,3,Mar
+7908,2026-07-11,South,Home & Kitchen,Unknown,Vikram Shah,4,2766.21,11064.84,vikram.shah@example.com,2026,7,Jul
+7909,2025-06-23,East,Home & Kitchen,Unknown,Rohan Gupta,10,19972.14,199721.4,rohan.gupta@example.com,2025,6,Jun
+7910,2025-07-03,North,Home & Kitchen,Cookware Set,Aditi Rao,3,18685.08,56055.24,aditi.rao@example.com,2025,7,Jul
+7911,2025-11-11,West,Apparel,T-Shirt,Meera Iyer,8,35647.0,285174.24,meera.iyer@example.com,2025,11,Nov
+7912,2025-05-31,East,Home & Kitchen,Blender,Arjun Nair,5,4459.44,22297.2,arjun.nair@example.com,2025,5,May
+7913,2025-10-18,South,Apparel,Jeans,Sana Khan,5,13925.69,69628.45,sana.khan@example.com,2025,10,Oct
+7914,2025-02-21,South,Electronics,Desk,Karan Malhotra,7,11866.0,83064.87,karan.malhotra@example.com,2025,2,Feb
+7915,2025-11-27,West,Furniture,Office Chair,Sana Khan,9,48019.82,432178.38,sana.khan@example.com,2025,11,Nov
+7916,2026-07-17,North,Electronics,Smartphone,Vikram Shah,1,29214.46,29214.46,vikram.shah@example.com,2026,7,Jul
+7917,2025-07-15,North,Furniture,Smartphone,Vikram Shah,10,3583.0,35829.0,vikram.shah@example.com,2025,7,Jul
+7918,2026-02-20,East,Electronics,Cookware Set,Karan Malhotra,7,55854.4,390980.8,karan.malhotra@example.com,2026,2,Feb
+7919,2025-01-01,South,Electronics,Laptop,Karan Malhotra,10,21895.16,218951.6,karan.malhotra@example.com,2025,1,Jan
+7920,2026-10-05,West,Furniture,Office Chair,Rohan Gupta,7,,,rohan.gupta@example.com,2026,10,Oct
+7921,2025-05-03,East,Electronics,Blender,Priya Menon,2,21501.19,43002.38,priya.menon@example.com,2025,5,May
+7922,2026-06-02,West,Furniture,Blender,Priya Menon,-4,24243.51,96974.04,priya.menon@example.com,2026,6,Jun
+7923,2025-02-19,East,Electronics,Smartphone,Priya Menon,1,11016.0,11015.55,priya.menon@example.com,2025,2,Feb
+7924,2025-10-02,South,Furniture,Headphones,Rohan Gupta,10,16601.0,166007.4,rohan.gupta@example.com,2025,10,Oct
+7925,2025-06-11,East,Electronics,Smartphone,Aditi Rao,4,,,aditi.rao@example.com,2025,6,Jun
+7926,2026-01-24,North,Electronics,Smartphone,Karan Malhotra,,7016.0,,karan.malhotra@example.com,2026,1,Jan
+7927,2025-08-06,Unknown,Home & Kitchen,Sneakers,Meera Iyer,8,17794.0,142350.96,meera.iyer@example.com,2025,8,Aug
+7928,2026-02-20,North,Apparel,Desk,Karan Malhotra,10,35357.0,353567.9,karan.malhotra@example.com,2026,2,Feb
+7929,2025-11-03,West,Furniture,T-Shirt,Arjun Nair,7,57618.0,403324.74,arjun.nair@example.com,2025,11,Nov
+7930,2025-12-28,South,Electronics,Laptop,Meera Iyer,10,40278.84,402788.4,meera.iyer@example.com,2025,12,Dec
+7931,2025-11-30,East,Electronics,Office Chair,Priya Menon,5,26547.06,132735.3,priya.menon@example.com,2025,11,Nov
+7932,2025-07-22,East,Electronics,Smartphone,Rohan Gupta,9,4531.34,40782.06,rohan.gupta@example.com,2025,7,Jul
+7933,2025-07-02,North,Apparel,Blender,Aditi Rao,4,44764.0,179056.24,aditi.rao@example.com,2025,7,Jul
+7934,2026-06-09,East,Apparel,Sneakers,Vikram Shah,10,41726.1,417261.0,vikram.shah@example.com,2026,6,Jun
+7935,2025-03-13,Unknown,Apparel,Headphones,Karan Malhotra,2,36003.09,72006.18,karan.malhotra@example.com,2025,3,Mar
+7936,2025-04-27,East,Home & Kitchen,T-Shirt,Meera Iyer,2,38015.79,76031.58,meera.iyer@example.com,2025,4,Apr
+7937,2025-07-27,East,Apparel,Unknown,Aditi Rao,4,,,aditi.rao@example.com,2025,7,Jul
+7938,2026-07-26,Unknown,Apparel,Jeans,Rohan Gupta,8,27604.0,220830.32,rohan.gupta@example.com,2026,7,Jul
+7939,2025-08-08,East,Furniture,Unknown,Karan Malhotra,5,54686.22,273431.1,karan.malhotra@example.com,2025,8,Aug
+7940,2025-06-25,South,Electronics,Laptop,Aditi Rao,1,9899.56,9899.56,aditi.rao@example.com,2025,6,Jun
+7941,2026-06-14,East,Electronics,Sofa,Aditi Rao,9,39461.08,355149.72,aditi.rao@example.com,2026,6,Jun
+7942,2025-12-18,North,Furniture,Sneakers,Sana Khan,6,47225.95,283355.7,sana.khan@example.com,2025,12,Dec
+7943,2026-04-18,North,Apparel,Sofa,Meera Iyer,5,1317.45,6587.25,meera.iyer@example.com,2026,4,Apr
+7944,2025-08-31,Unknown,Electronics,Tablet,Meera Iyer,-8,41369.98,330959.84,meera.iyer@example.com,2025,8,Aug
+7945,2026-03-06,East,Home & Kitchen,Cookware Set,Aditi Rao,7,23529.0,164704.96,aditi.rao@example.com,2026,3,Mar
+7946,2025-05-08,North,Electronics,Tablet,Unknown,6,54825.82,328954.92,Not Provided,2025,5,May
+7947,2025-06-05,South,Home & Kitchen,Laptop,Arjun Nair,,38503.01,,arjun.nair@example.com,2025,6,Jun
+7948,2025-03-11,East,Home & Kitchen,Office Chair,Priya Menon,7,15562.05,108934.35,priya.menon@example.com,2025,3,Mar
+7949,2025-09-16,West,Electronics,Laptop,Priya Menon,9,52636.84,473731.56,priya.menon@example.com,2025,9,Sep
+7950,2026-03-18,North,Home & Kitchen,Blender,Unknown,10,10136.09,101360.9,Not Provided,2026,3,Mar
+7951,2025-07-26,South,Electronics,Sneakers,Vikram Shah,8,40669.24,325353.92,vikram.shah@example.com,2025,7,Jul
+7952,2026-03-19,North,Electronics,Laptop,Arjun Nair,1,46048.05,46048.05,arjun.nair@example.com,2026,3,Mar
+7953,2025-03-20,West,Home & Kitchen,Blender,Unknown,7,20471.57,143300.99,Not Provided,2025,3,Mar
+7954,2025-11-24,North,Furniture,Desk,Karan Malhotra,1,7741.0,7741.44,karan.malhotra@example.com,2025,11,Nov
+7955,2025-12-31,West,Electronics,Office Chair,Priya Menon,6,,,priya.menon@example.com,2025,12,Dec
+7956,2026-07-31,North,Apparel,Cookware Set,Sana Khan,6,6393.44,38360.64,sana.khan@example.com,2026,7,Jul
+7957,2025-12-17,East,Home & Kitchen,T-Shirt,Meera Iyer,2,55091.55,110183.1,meera.iyer@example.com,2025,12,Dec
+7958,2026-01-05,North,Apparel,Headphones,Sana Khan,2,27871.36,55742.72,sana.khan@example.com,2026,1,Jan
+7959,2025-09-19,East,Furniture,Blender,Priya Menon,2,24897.0,49794.1,priya.menon@example.com,2025,9,Sep
+7960,2025-02-03,East,Furniture,Desk,Arjun Nair,9,30377.13,273394.17,arjun.nair@example.com,2025,2,Feb
+7961,2026-08-18,East,Apparel,Desk,Rohan Gupta,1,31360.96,31360.96,rohan.gupta@example.com,2026,8,Aug
+7962,2026-02-20,East,Apparel,Sneakers,Sana Khan,6,12709.82,76258.92,sana.khan@example.com,2026,2,Feb
+7963,2026-01-23,West,Home & Kitchen,Blender,Unknown,1,29932.72,29932.72,Not Provided,2026,1,Jan
+7964,2025-02-07,North,Apparel,Desk,Sana Khan,2,19900.24,39800.48,sana.khan@example.com,2025,2,Feb
+7965,2025-11-10,West,Furniture,Sofa,Vikram Shah,6,22377.15,134262.9,vikram.shah@example.com,2025,11,Nov
+7966,2026-05-20,North,Home & Kitchen,Sofa,Aditi Rao,4,18204.57,72818.28,aditi.rao@example.com,2026,5,May
+7967,2025-02-19,West,Home & Kitchen,Tablet,Vikram Shah,10,29463.64,294636.4,vikram.shah@example.com,2025,2,Feb
+7968,2026-01-13,North,Apparel,Desk,Karan Malhotra,7,27771.26,194398.82,karan.malhotra@example.com,2026,1,Jan
+7969,2025-11-12,North,Electronics,Desk,Arjun Nair,4,56827.0,227306.16,arjun.nair@example.com,2025,11,Nov
+7970,2025-07-06,West,Furniture,Blender,Unknown,7,57379.32,401655.24,Not Provided,2025,7,Jul
+7971,2025-09-01,North,Home & Kitchen,Laptop,Sana Khan,8,52414.0,419310.08,sana.khan@example.com,2025,9,Sep
+7972,2026-02-28,South,Apparel,Office Chair,Aditi Rao,9,49013.0,441118.08,aditi.rao@example.com,2026,2,Feb
+7973,2025-10-18,North,Furniture,Cookware Set,Rohan Gupta,1,,,rohan.gupta@example.com,2025,10,Oct
+7974,2026-06-04,East,Electronics,T-Shirt,Aditi Rao,9,49944.4,449499.6,aditi.rao@example.com,2026,6,Jun
+7975,2026-07-04,South,Electronics,Smartphone,Priya Menon,6,32453.0,194716.26,priya.menon@example.com,2026,7,Jul
+7976,2025-08-23,South,Electronics,Jeans,Priya Menon,8,37034.67,296277.36,priya.menon@example.com,2025,8,Aug
+7977,2025-04-10,South,Home & Kitchen,Laptop,Sana Khan,6,11114.77,66688.62,sana.khan@example.com,2025,4,Apr
+7978,2025-01-07,East,Home & Kitchen,Laptop,Sana Khan,4,16960.63,67842.52,sana.khan@example.com,2025,1,Jan
+7979,2025-01-15,East,Apparel,Desk,Rohan Gupta,5,40452.87,202264.35,rohan.gupta@example.com,2025,1,Jan
+7980,2026-03-17,North,Apparel,Headphones,Vikram Shah,3,33352.13,100056.39,vikram.shah@example.com,2026,3,Mar
+7981,2026-07-08,North,Furniture,Jeans,Karan Malhotra,,31196.88,,karan.malhotra@example.com,2026,7,Jul
+7982,2025-09-16,East,Apparel,Cookware Set,Rohan Gupta,3,52712.55,158137.65,rohan.gupta@example.com,2025,9,Sep
+7983,2026-04-14,West,Apparel,Jeans,Karan Malhotra,6,34813.59,208881.54,karan.malhotra@example.com,2026,4,Apr
+7984,2025-10-18,West,Electronics,Tablet,Vikram Shah,6,30560.24,183361.44,vikram.shah@example.com,2025,10,Oct
+7985,2026-01-29,West,Electronics,Smartphone,Aditi Rao,10,35232.17,352321.7,aditi.rao@example.com,2026,1,Jan
+7986,2025-01-12,South,Home & Kitchen,Tablet,Unknown,8,10393.3,83146.4,Not Provided,2025,1,Jan
+7987,2026-10-01,West,Electronics,Sofa,Karan Malhotra,1,57164.29,57164.29,karan.malhotra@example.com,2026,10,Oct
+7988,2026-01-14,South,Furniture,Desk,Karan Malhotra,3,3378.35,10135.05,karan.malhotra@example.com,2026,1,Jan
+7989,2025-08-08,West,Electronics,Smartphone,Meera Iyer,,26707.92,,meera.iyer@example.com,2025,8,Aug
+7990,2025-05-06,South,Furniture,Jeans,Meera Iyer,3,37029.95,111089.85,meera.iyer@example.com,2025,5,May
+7991,2025-12-17,South,Furniture,Blender,Unknown,5,11861.29,59306.45,Not Provided,2025,12,Dec
+7992,2026-03-14,West,Apparel,Jeans,Unknown,7,35338.36,247368.52,Not Provided,2026,3,Mar
+7993,2025-12-29,South,Apparel,Blender,Vikram Shah,9,32785.16,295066.44,vikram.shah@example.com,2025,12,Dec
+7994,2025-10-11,North,Apparel,Desk,Vikram Shah,4,26960.57,107842.28,vikram.shah@example.com,2025,10,Oct
+7995,2025-01-18,North,Apparel,Headphones,Vikram Shah,6,42384.82,254308.92,vikram.shah@example.com,2025,1,Jan
+7996,2025-02-09,North,Electronics,Cookware Set,Unknown,10,41953.8,419538.0,Not Provided,2025,2,Feb
+7997,2025-06-24,East,Home & Kitchen,Desk,Unknown,10,30279.14,302791.4,Not Provided,2025,6,Jun
+7998,2025-09-22,West,Apparel,Tablet,Karan Malhotra,7,25016.27,175113.89,karan.malhotra@example.com,2025,9,Sep
+7999,2026-01-31,South,Electronics,Smartphone,Unknown,,15545.66,,Not Provided,2026,1,Jan
+8000,2026-07-25,East,Apparel,Sneakers,Priya Menon,9,16939.26,152453.34,priya.menon@example.com,2026,7,Jul
+8001,2025-08-24,West,Furniture,Blender,Arjun Nair,3,48094.11,144282.33,arjun.nair@example.com,2025,8,Aug
+8002,2025-08-29,West,Apparel,Sofa,Vikram Shah,2,19376.62,38753.24,vikram.shah@example.com,2025,8,Aug
+8003,2026-03-02,West,Electronics,Blender,Karan Malhotra,9,1588.44,14295.96,karan.malhotra@example.com,2026,3,Mar
+8004,2026-08-27,South,Furniture,Tablet,Aditi Rao,9,53385.0,480461.67,aditi.rao@example.com,2026,8,Aug
+8005,2026-05-01,West,Home & Kitchen,Tablet,Karan Malhotra,8,35170.95,281367.6,karan.malhotra@example.com,2026,5,May
+8006,2026-04-15,North,Electronics,Unknown,Priya Menon,10,31326.0,313263.1,priya.menon@example.com,2026,4,Apr
+8007,2025-09-28,South,Home & Kitchen,Cookware Set,Priya Menon,,4641.98,,priya.menon@example.com,2025,9,Sep
+8008,2025-11-09,North,Apparel,Office Chair,Aditi Rao,8,19200.34,153602.72,aditi.rao@example.com,2025,11,Nov
+8009,2026-07-02,West,Furniture,Sneakers,Vikram Shah,1,53925.79,53925.79,vikram.shah@example.com,2026,7,Jul
+8010,2026-01-04,South,Home & Kitchen,Sneakers,Priya Menon,1,5129.36,5129.36,priya.menon@example.com,2026,1,Jan
+8011,2025-08-25,Unknown,Electronics,Office Chair,Arjun Nair,6,55424.9,332549.4,arjun.nair@example.com,2025,8,Aug
+8012,2026-03-04,West,Electronics,Laptop,Unknown,1,25648.0,25647.71,Not Provided,2026,3,Mar
+8013,2025-07-20,North,Apparel,Office Chair,Aditi Rao,9,53960.0,485639.55,aditi.rao@example.com,2025,7,Jul
+8014,2025-10-28,East,Home & Kitchen,Office Chair,Arjun Nair,5,49280.0,246400.2,arjun.nair@example.com,2025,10,Oct
+8015,2025-10-24,West,Home & Kitchen,Tablet,Vikram Shah,8,26954.0,215635.28,vikram.shah@example.com,2025,10,Oct
+8016,2025-11-02,West,Electronics,Jeans,Sana Khan,,,,sana.khan@example.com,2025,11,Nov
+8017,2026-04-21,East,Electronics,Desk,Priya Menon,1,20903.01,20903.01,priya.menon@example.com,2026,4,Apr
+8018,2026-04-30,North,Furniture,Headphones,Rohan Gupta,9,26300.0,236701.98,rohan.gupta@example.com,2026,4,Apr
+8019,2025-03-24,South,Electronics,Smartphone,Meera Iyer,1,1460.0,1460.35,meera.iyer@example.com,2025,3,Mar
+8020,2026-01-02,North,Apparel,Jeans,Meera Iyer,-1,23804.41,23804.41,meera.iyer@example.com,2026,1,Jan
+8021,2025-05-23,North,Electronics,Sneakers,Vikram Shah,1,59016.02,59016.02,vikram.shah@example.com,2025,5,May
+8022,2025-10-30,East,Electronics,Desk,Meera Iyer,3,30646.0,91939.14,meera.iyer@example.com,2025,10,Oct
+8023,2026-07-04,East,Apparel,Cookware Set,Unknown,4,6457.66,25830.64,Not Provided,2026,7,Jul
+8024,2025-11-28,East,Furniture,Jeans,Karan Malhotra,7,,,karan.malhotra@example.com,2025,11,Nov
+8025,2026-08-05,East,Electronics,Sofa,Unknown,5,55923.94,279619.7,Not Provided,2026,8,Aug
+8026,2026-04-06,West,Home & Kitchen,Cookware Set,Unknown,10,55168.54,551685.4,Not Provided,2026,4,Apr
+8027,2025-11-14,East,Electronics,Blender,Meera Iyer,9,3490.0,31411.44,meera.iyer@example.com,2025,11,Nov
+8028,2025-09-01,South,Home & Kitchen,Jeans,Aditi Rao,1,26722.95,26722.95,aditi.rao@example.com,2025,9,Sep
+8029,2025-04-08,East,Electronics,Sneakers,Rohan Gupta,6,40113.0,240677.7,rohan.gupta@example.com,2025,4,Apr
+8030,2025-10-22,South,Furniture,Blender,Unknown,10,7182.21,71822.1,Not Provided,2025,10,Oct
+8031,2026-06-14,South,Home & Kitchen,Unknown,Aditi Rao,5,,,aditi.rao@example.com,2026,6,Jun
+8032,2025-07-11,West,Home & Kitchen,Sofa,Sana Khan,8,9877.0,79017.84,sana.khan@example.com,2025,7,Jul
+8033,2026-04-26,East,Furniture,Office Chair,Rohan Gupta,8,46623.73,372989.84,rohan.gupta@example.com,2026,4,Apr
+8034,2025-12-15,South,Electronics,Tablet,Priya Menon,3,37289.0,111866.64,priya.menon@example.com,2025,12,Dec
+8035,2026-05-12,East,Apparel,Laptop,Vikram Shah,,23984.0,,vikram.shah@example.com,2026,5,May
+8036,2025-08-06,East,Electronics,Laptop,Arjun Nair,5,42285.36,211426.8,arjun.nair@example.com,2025,8,Aug
+8037,2026-03-27,South,Electronics,Tablet,Meera Iyer,7,48740.85,341185.95,meera.iyer@example.com,2026,3,Mar
+8038,2025-05-04,Unknown,Home & Kitchen,Headphones,Aditi Rao,8,36625.92,293007.36,aditi.rao@example.com,2025,5,May
+8039,2025-06-16,North,Home & Kitchen,Headphones,Arjun Nair,9,57083.31,513749.79,arjun.nair@example.com,2025,6,Jun
+8040,2026-06-18,East,Electronics,Sofa,Priya Menon,4,51643.02,206572.08,priya.menon@example.com,2026,6,Jun
+8041,2026-04-09,South,Electronics,Cookware Set,Arjun Nair,5,15553.17,77765.85,arjun.nair@example.com,2026,4,Apr
+8042,2026-08-16,South,Home & Kitchen,Jeans,Meera Iyer,7,22060.1,154420.7,meera.iyer@example.com,2026,8,Aug
+8043,2025-01-27,North,Electronics,Laptop,Meera Iyer,7,13893.7,97255.9,meera.iyer@example.com,2025,1,Jan
+8044,2025-02-17,West,Apparel,Smartphone,Sana Khan,7,14029.67,98207.69,sana.khan@example.com,2025,2,Feb
+8045,2025-03-07,East,Electronics,Unknown,Rohan Gupta,4,15638.0,62552.84,rohan.gupta@example.com,2025,3,Mar
+8046,2026-06-19,South,Electronics,Headphones,Karan Malhotra,3,30307.0,90921.15,karan.malhotra@example.com,2026,6,Jun
+8047,2025-04-15,East,Furniture,T-Shirt,Sana Khan,-9,26921.0,242290.62,sana.khan@example.com,2025,4,Apr
+8048,2025-01-08,South,Home & Kitchen,Smartphone,Karan Malhotra,1,40099.75,40099.75,karan.malhotra@example.com,2025,1,Jan
+8049,2026-01-15,North,Apparel,Sneakers,Aditi Rao,5,16069.02,80345.1,aditi.rao@example.com,2026,1,Jan
+8050,2026-08-06,West,Furniture,Headphones,Karan Malhotra,4,3566.57,14266.28,karan.malhotra@example.com,2026,8,Aug
+8051,2026-02-18,South,Apparel,Tablet,Aditi Rao,9,58515.34,526638.06,aditi.rao@example.com,2026,2,Feb
+8052,2025-06-04,East,Furniture,Laptop,Karan Malhotra,9,5666.34,50997.06,karan.malhotra@example.com,2025,6,Jun
+8053,2026-02-21,North,Home & Kitchen,Laptop,Unknown,5,18799.35,93996.75,Not Provided,2026,2,Feb
+8054,2025-12-31,West,Electronics,T-Shirt,Vikram Shah,,1219.17,,vikram.shah@example.com,2025,12,Dec
+8055,2026-02-07,South,Home & Kitchen,Sofa,Meera Iyer,8,17701.0,141607.52,meera.iyer@example.com,2026,2,Feb
+8056,2026-05-23,West,Electronics,Headphones,Sana Khan,8,12125.55,97004.4,sana.khan@example.com,2026,5,May
+8057,2026-01-17,Unknown,Electronics,Blender,Vikram Shah,10,47490.49,474904.9,vikram.shah@example.com,2026,1,Jan
+8058,2026-05-06,North,Electronics,Tablet,Meera Iyer,6,23067.49,138404.94,meera.iyer@example.com,2026,5,May
+8059,2025-08-22,Unknown,Electronics,T-Shirt,Rohan Gupta,3,42758.74,128276.22,rohan.gupta@example.com,2025,8,Aug
+8060,2025-03-18,West,Electronics,Sneakers,Meera Iyer,5,3849.42,19247.1,meera.iyer@example.com,2025,3,Mar
+8061,2026-08-24,Unknown,Furniture,Sofa,Vikram Shah,2,59018.2,118036.4,vikram.shah@example.com,2026,8,Aug
+8062,2025-10-24,North,Home & Kitchen,Jeans,Rohan Gupta,8,16648.05,133184.4,rohan.gupta@example.com,2025,10,Oct
+8063,2026-06-09,West,Apparel,Sofa,Sana Khan,5,59023.75,295118.75,sana.khan@example.com,2026,6,Jun
+8064,2025-03-06,West,Apparel,Desk,Priya Menon,9,5355.39,48198.51,priya.menon@example.com,2025,3,Mar
+8065,2025-11-04,North,Home & Kitchen,Jeans,Unknown,9,54263.0,488362.95,Not Provided,2025,11,Nov
+8066,2025-06-21,South,Apparel,Tablet,Unknown,6,15203.4,91220.4,Not Provided,2025,6,Jun
+8067,2026-02-12,Unknown,Furniture,Desk,Aditi Rao,1,16947.47,16947.47,aditi.rao@example.com,2026,2,Feb
+8068,2026-06-26,South,Electronics,T-Shirt,Arjun Nair,6,3604.0,21625.68,arjun.nair@example.com,2026,6,Jun
+8069,2025-05-30,East,Home & Kitchen,Cookware Set,Arjun Nair,8,46824.35,374594.8,arjun.nair@example.com,2025,5,May
+8070,2026-08-08,East,Apparel,Sneakers,Meera Iyer,5,58461.51,292307.55,meera.iyer@example.com,2026,8,Aug
+8071,2026-08-16,North,Home & Kitchen,Laptop,Rohan Gupta,3,1848.41,5545.23,rohan.gupta@example.com,2026,8,Aug
+8072,2025-11-12,East,Home & Kitchen,Jeans,Priya Menon,5,28389.18,141945.9,priya.menon@example.com,2025,11,Nov
+8073,2025-09-09,Unknown,Apparel,Cookware Set,Meera Iyer,6,53376.58,320259.48,meera.iyer@example.com,2025,9,Sep
+8074,2025-10-10,North,Home & Kitchen,Desk,Vikram Shah,,37437.0,,vikram.shah@example.com,2025,10,Oct
+8075,2025-07-21,West,Electronics,Tablet,Meera Iyer,6,21307.06,127842.36,meera.iyer@example.com,2025,7,Jul
+8076,2025-02-16,East,Electronics,Sofa,Meera Iyer,9,5117.98,46061.82,meera.iyer@example.com,2025,2,Feb
+8077,2026-04-18,West,Home & Kitchen,Laptop,Vikram Shah,2,32841.87,65683.74,vikram.shah@example.com,2026,4,Apr
+8078,2026-06-15,West,Electronics,Desk,Karan Malhotra,-5,44056.0,220282.25,karan.malhotra@example.com,2026,6,Jun
+8079,2025-07-04,West,Home & Kitchen,Headphones,Aditi Rao,,6631.39,,aditi.rao@example.com,2025,7,Jul
+8080,2025-05-07,North,Home & Kitchen,T-Shirt,Meera Iyer,3,39871.94,119615.82,meera.iyer@example.com,2025,5,May
+8081,2025-03-10,East,Electronics,T-Shirt,Unknown,,30257.9,,Not Provided,2025,3,Mar
+8082,2025-10-06,West,Home & Kitchen,Laptop,Meera Iyer,9,31558.0,284022.0,meera.iyer@example.com,2025,10,Oct
+8083,2025-09-21,West,Furniture,Desk,Rohan Gupta,9,27810.8,250297.2,rohan.gupta@example.com,2025,9,Sep
+8084,2025-09-09,North,Electronics,Sneakers,Rohan Gupta,9,,,rohan.gupta@example.com,2025,9,Sep
+8085,2025-12-26,East,Furniture,Office Chair,Vikram Shah,5,20926.08,104630.4,vikram.shah@example.com,2025,12,Dec
+8086,2026-08-03,North,Furniture,Headphones,Meera Iyer,3,15596.04,46788.12,meera.iyer@example.com,2026,8,Aug
+8087,2026-05-29,East,Home & Kitchen,Office Chair,Arjun Nair,10,30586.45,305864.5,arjun.nair@example.com,2026,5,May
+8088,2025-07-28,South,Furniture,Office Chair,Vikram Shah,5,38805.82,194029.1,vikram.shah@example.com,2025,7,Jul
+8089,2025-09-14,North,Electronics,Smartphone,Unknown,2,30821.0,61642.0,Not Provided,2025,9,Sep
+8090,2025-01-18,West,Electronics,Office Chair,Vikram Shah,9,55004.45,495040.05,vikram.shah@example.com,2025,1,Jan
+8091,2026-01-18,East,Apparel,Unknown,Unknown,10,33846.15,338461.5,Not Provided,2026,1,Jan
+8092,2025-04-09,South,Electronics,Sneakers,Karan Malhotra,6,37828.12,226968.72,karan.malhotra@example.com,2025,4,Apr
+8093,2025-03-17,South,Electronics,Headphones,Arjun Nair,8,38136.33,305090.64,arjun.nair@example.com,2025,3,Mar
+8094,2025-05-12,South,Home & Kitchen,Jeans,Aditi Rao,2,2562.51,5125.02,aditi.rao@example.com,2025,5,May
+8095,2026-06-01,East,Furniture,Laptop,Arjun Nair,3,45154.34,135463.02,arjun.nair@example.com,2026,6,Jun
+8096,2026-08-11,North,Electronics,Tablet,Sana Khan,2,16476.0,32951.36,sana.khan@example.com,2026,8,Aug
+8097,2025-12-14,North,Home & Kitchen,Sofa,Unknown,1,18397.71,18397.71,Not Provided,2025,12,Dec
+8098,2026-01-05,North,Furniture,Laptop,Vikram Shah,2,32476.0,64952.14,vikram.shah@example.com,2026,1,Jan
+8099,2026-06-17,North,Electronics,Blender,Aditi Rao,6,17218.66,103311.96,aditi.rao@example.com,2026,6,Jun
+8100,2026-04-02,West,Electronics,Jeans,Priya Menon,2,39508.63,79017.26,priya.menon@example.com,2026,4,Apr
+8101,2025-05-21,North,Electronics,Tablet,Meera Iyer,7,2936.77,20557.39,meera.iyer@example.com,2025,5,May
+8102,2025-06-21,West,Home & Kitchen,Desk,Aditi Rao,-6,26439.73,158638.38,aditi.rao@example.com,2025,6,Jun
+8103,2025-01-05,North,Furniture,Headphones,Karan Malhotra,8,45994.0,367955.28,karan.malhotra@example.com,2025,1,Jan
+8104,2025-11-05,North,Electronics,Office Chair,Arjun Nair,-2,38813.51,77627.02,arjun.nair@example.com,2025,11,Nov
+8105,2026-04-21,East,Apparel,T-Shirt,Arjun Nair,10,34326.04,343260.4,arjun.nair@example.com,2026,4,Apr
+8106,2026-04-19,South,Electronics,Blender,Meera Iyer,6,28514.93,171089.58,meera.iyer@example.com,2026,4,Apr
+8107,2026-06-13,East,Home & Kitchen,Headphones,Meera Iyer,8,24037.38,192299.04,meera.iyer@example.com,2026,6,Jun
+8108,2026-05-23,North,Furniture,Laptop,Priya Menon,10,3329.13,33291.3,priya.menon@example.com,2026,5,May
+8109,2026-07-28,South,Electronics,Desk,Arjun Nair,4,44547.0,178188.8,arjun.nair@example.com,2026,7,Jul
+8110,2025-03-12,South,Furniture,Headphones,Meera Iyer,,49254.48,,meera.iyer@example.com,2025,3,Mar
+8111,2025-11-30,West,Electronics,T-Shirt,Vikram Shah,6,50736.2,304417.2,vikram.shah@example.com,2025,11,Nov
+8112,2026-03-16,West,Home & Kitchen,Blender,Vikram Shah,5,14822.81,74114.05,vikram.shah@example.com,2026,3,Mar
+8113,2025-02-01,East,Home & Kitchen,Sofa,Aditi Rao,7,37405.5,261838.5,aditi.rao@example.com,2025,2,Feb
+8114,2026-08-06,East,Home & Kitchen,Jeans,Vikram Shah,4,35482.0,141926.8,vikram.shah@example.com,2026,8,Aug
+8115,2025-02-04,North,Electronics,Sofa,Aditi Rao,10,22361.33,223613.3,aditi.rao@example.com,2025,2,Feb
+8116,2025-03-24,West,Home & Kitchen,T-Shirt,Arjun Nair,9,10096.27,90866.43,arjun.nair@example.com,2025,3,Mar
+8117,2025-06-22,South,Furniture,Sofa,Vikram Shah,2,,,vikram.shah@example.com,2025,6,Jun
+8118,2026-08-05,West,Home & Kitchen,Headphones,Unknown,3,57381.44,172144.32,Not Provided,2026,8,Aug
+8119,2026-04-18,Unknown,Home & Kitchen,Desk,Rohan Gupta,8,,,rohan.gupta@example.com,2026,4,Apr
+8120,2025-02-08,West,Apparel,Laptop,Priya Menon,4,8459.47,33837.88,priya.menon@example.com,2025,2,Feb
+8121,2025-07-28,South,Electronics,Office Chair,Aditi Rao,8,13132.17,105057.36,aditi.rao@example.com,2025,7,Jul
+8122,2026-03-31,South,Electronics,Tablet,Unknown,9,34218.0,307960.83,Not Provided,2026,3,Mar
+8123,2025-07-25,West,Furniture,T-Shirt,Karan Malhotra,-2,35391.37,70782.74,karan.malhotra@example.com,2025,7,Jul
+8124,2025-12-11,North,Electronics,Blender,Vikram Shah,,37636.48,,vikram.shah@example.com,2025,12,Dec
+8125,2026-01-08,South,Furniture,Sneakers,Meera Iyer,4,35016.63,140066.52,meera.iyer@example.com,2026,1,Jan
+8126,2026-04-01,East,Home & Kitchen,Laptop,Karan Malhotra,8,30199.15,241593.2,karan.malhotra@example.com,2026,4,Apr
+8127,2025-01-04,South,Furniture,Unknown,Aditi Rao,8,20391.0,163126.8,aditi.rao@example.com,2025,1,Jan
+8128,2026-02-15,South,Electronics,Headphones,Vikram Shah,10,53788.0,537881.1,vikram.shah@example.com,2026,2,Feb
+8129,2026-02-11,South,Apparel,Tablet,Vikram Shah,-1,14724.65,14724.65,vikram.shah@example.com,2026,2,Feb
+8130,2025-11-18,South,Furniture,Jeans,Meera Iyer,,51918.65,,meera.iyer@example.com,2025,11,Nov
+8131,2026-02-14,North,Furniture,Jeans,Karan Malhotra,1,15041.67,15041.67,karan.malhotra@example.com,2026,2,Feb
+8132,2026-01-23,West,Electronics,Headphones,Sana Khan,4,40608.31,162433.24,sana.khan@example.com,2026,1,Jan
+8133,2025-10-22,Unknown,Apparel,Sneakers,Aditi Rao,4,31593.0,126371.8,aditi.rao@example.com,2025,10,Oct
+8134,2026-05-01,West,Apparel,Smartphone,Karan Malhotra,1,,,karan.malhotra@example.com,2026,5,May
+8135,2025-04-12,West,Electronics,Laptop,Meera Iyer,,,,meera.iyer@example.com,2025,4,Apr
+8136,2026-05-25,West,Electronics,Desk,Aditi Rao,7,,,aditi.rao@example.com,2026,5,May
+8137,2026-01-05,South,Electronics,T-Shirt,Unknown,7,39400.56,275803.92,Not Provided,2026,1,Jan
+8138,2025-09-21,South,Apparel,Cookware Set,Priya Menon,,45871.2,,priya.menon@example.com,2025,9,Sep
+8139,2026-03-04,West,Electronics,Laptop,Sana Khan,6,43193.0,259157.1,sana.khan@example.com,2026,3,Mar
+8140,2025-06-04,South,Apparel,T-Shirt,Meera Iyer,-1,55635.07,55635.07,meera.iyer@example.com,2025,6,Jun
+8141,2025-02-08,West,Home & Kitchen,Desk,Rohan Gupta,8,3736.08,29888.64,rohan.gupta@example.com,2025,2,Feb
+8142,2026-02-09,West,Apparel,Sneakers,Vikram Shah,2,15662.24,31324.48,vikram.shah@example.com,2026,2,Feb
+8143,2025-04-08,North,Apparel,T-Shirt,Karan Malhotra,,2745.0,,karan.malhotra@example.com,2025,4,Apr
+8144,2025-10-20,South,Home & Kitchen,Blender,Sana Khan,8,19732.89,157863.12,sana.khan@example.com,2025,10,Oct
+8145,2025-05-28,East,Apparel,Headphones,Sana Khan,-6,9708.91,58253.46,sana.khan@example.com,2025,5,May
+8146,2026-07-07,South,Electronics,Blender,Meera Iyer,6,39723.84,238343.04,meera.iyer@example.com,2026,7,Jul
+8147,2025-01-01,South,Home & Kitchen,Headphones,Arjun Nair,5,2712.62,13563.1,arjun.nair@example.com,2025,1,Jan
+8148,2025-11-13,North,Home & Kitchen,Tablet,Vikram Shah,3,18756.89,56270.67,vikram.shah@example.com,2025,11,Nov
+8149,2025-04-12,East,Furniture,Tablet,Unknown,,6871.19,,Not Provided,2025,4,Apr
+8150,2025-06-08,Unknown,Electronics,Jeans,Priya Menon,,28870.4,,priya.menon@example.com,2025,6,Jun
+8151,2026-04-14,West,Apparel,Blender,Arjun Nair,10,12235.35,122353.5,arjun.nair@example.com,2026,4,Apr
+8152,2025-02-06,West,Electronics,Cookware Set,Priya Menon,9,6214.83,55933.47,priya.menon@example.com,2025,2,Feb
+8153,2025-05-25,South,Home & Kitchen,Sneakers,Meera Iyer,6,2062.91,12377.46,meera.iyer@example.com,2025,5,May
+8154,2025-12-23,South,Electronics,Cookware Set,Arjun Nair,-1,50509.0,50509.12,arjun.nair@example.com,2025,12,Dec
+8155,2026-03-11,North,Electronics,T-Shirt,Vikram Shah,10,2045.36,20453.6,vikram.shah@example.com,2026,3,Mar
+8156,2025-09-08,East,Apparel,Desk,Arjun Nair,8,39909.0,319272.64,arjun.nair@example.com,2025,9,Sep
+8157,2025-12-09,North,Electronics,Smartphone,Aditi Rao,7,1757.82,12304.74,aditi.rao@example.com,2025,12,Dec
+8158,2025-07-22,South,Electronics,Cookware Set,Unknown,5,13941.0,69705.45,Not Provided,2025,7,Jul
+8159,2026-08-09,West,Apparel,Jeans,Unknown,7,20738.26,145167.82,Not Provided,2026,8,Aug
+8160,2025-10-04,East,Apparel,Office Chair,Priya Menon,9,9602.76,86424.84,priya.menon@example.com,2025,10,Oct
+8161,2026-11-04,North,Apparel,Jeans,Vikram Shah,1,52757.6,52757.6,vikram.shah@example.com,2026,11,Nov
+8162,2025-06-20,East,Electronics,Sneakers,Unknown,2,34350.12,68700.24,Not Provided,2025,6,Jun
+8163,2025-10-13,East,Electronics,Headphones,Karan Malhotra,8,52165.28,417322.24,karan.malhotra@example.com,2025,10,Oct
+8164,2025-07-24,North,Furniture,Office Chair,Rohan Gupta,2,48431.0,96861.96,rohan.gupta@example.com,2025,7,Jul
+8165,2025-01-20,South,Home & Kitchen,Office Chair,Vikram Shah,4,52164.41,208657.64,vikram.shah@example.com,2025,1,Jan
+8166,2025-06-05,North,Home & Kitchen,Smartphone,Unknown,,3518.48,,Not Provided,2025,6,Jun
+8167,2025-07-09,North,Home & Kitchen,Cookware Set,Rohan Gupta,2,3987.6,7975.2,rohan.gupta@example.com,2025,7,Jul
+8168,2025-07-07,North,Home & Kitchen,Cookware Set,Arjun Nair,1,55884.04,55884.04,arjun.nair@example.com,2025,7,Jul
+8169,2025-11-10,East,Furniture,Desk,Aditi Rao,3,42266.52,126799.56,aditi.rao@example.com,2025,11,Nov
+8170,2026-02-09,North,Electronics,Sofa,Rohan Gupta,,29903.69,,rohan.gupta@example.com,2026,2,Feb
+8171,2026-02-09,South,Home & Kitchen,Tablet,Unknown,7,11288.47,79019.29,Not Provided,2026,2,Feb
+8172,2025-06-21,North,Electronics,T-Shirt,Vikram Shah,,42311.24,,vikram.shah@example.com,2025,6,Jun
+8173,2025-02-25,East,Furniture,Tablet,Unknown,10,36984.48,369844.8,Not Provided,2025,2,Feb
+8174,2025-05-31,North,Home & Kitchen,Smartphone,Rohan Gupta,2,17620.02,35240.04,rohan.gupta@example.com,2025,5,May
+8175,2026-05-05,East,Electronics,Blender,Karan Malhotra,1,36526.04,36526.04,karan.malhotra@example.com,2026,5,May
+8176,2025-04-15,West,Home & Kitchen,Sofa,Vikram Shah,2,24213.66,48427.32,vikram.shah@example.com,2025,4,Apr
+8177,2026-07-23,East,Home & Kitchen,Smartphone,Arjun Nair,2,19610.53,39221.06,arjun.nair@example.com,2026,7,Jul
+8178,2025-02-26,North,Furniture,Cookware Set,Meera Iyer,,23214.74,,meera.iyer@example.com,2025,2,Feb
+8179,2025-02-02,East,Home & Kitchen,Sofa,Sana Khan,7,55921.0,391446.86,sana.khan@example.com,2025,2,Feb
+8180,2026-07-07,East,Electronics,Tablet,Sana Khan,,22949.36,,sana.khan@example.com,2026,7,Jul
+8181,2026-07-09,East,Home & Kitchen,Tablet,Priya Menon,6,38413.27,230479.62,priya.menon@example.com,2026,7,Jul
+8182,2026-03-01,North,Electronics,T-Shirt,Karan Malhotra,4,46740.94,186963.76,karan.malhotra@example.com,2026,3,Mar
+8183,2026-01-13,North,Apparel,Smartphone,Arjun Nair,3,25057.0,75171.42,arjun.nair@example.com,2026,1,Jan
+8184,2025-12-13,South,Electronics,Office Chair,Meera Iyer,3,26686.52,80059.56,meera.iyer@example.com,2025,12,Dec
+8185,2025-09-02,West,Electronics,Cookware Set,Meera Iyer,5,17855.78,89278.9,meera.iyer@example.com,2025,9,Sep
+8186,2025-09-26,North,Apparel,Tablet,Vikram Shah,6,20183.72,121102.32,vikram.shah@example.com,2025,9,Sep
+8187,2025-06-22,West,Furniture,Smartphone,Meera Iyer,4,13373.0,53490.72,meera.iyer@example.com,2025,6,Jun
+8188,2025-01-02,North,Electronics,Sneakers,Vikram Shah,4,51357.12,205428.48,vikram.shah@example.com,2025,1,Jan
+8189,2025-07-02,South,Electronics,Tablet,Vikram Shah,3,,,vikram.shah@example.com,2025,7,Jul
+8190,2026-07-16,Unknown,Furniture,Sneakers,Vikram Shah,8,57646.0,461166.64,vikram.shah@example.com,2026,7,Jul
+8191,2025-06-01,North,Home & Kitchen,Jeans,Aditi Rao,6,53275.15,319650.9,aditi.rao@example.com,2025,6,Jun
+8192,2026-03-25,North,Apparel,Blender,Aditi Rao,4,20293.34,81173.36,aditi.rao@example.com,2026,3,Mar
+8193,2026-02-01,South,Electronics,Office Chair,Karan Malhotra,5,29208.0,146037.85,karan.malhotra@example.com,2026,2,Feb
+8194,2025-10-12,North,Home & Kitchen,Office Chair,Karan Malhotra,10,40379.49,403794.9,karan.malhotra@example.com,2025,10,Oct
+8195,2026-01-01,East,Apparel,Cookware Set,Rohan Gupta,10,45588.0,455878.2,rohan.gupta@example.com,2026,1,Jan
+8196,2026-03-23,East,Electronics,Laptop,Karan Malhotra,1,14455.29,14455.29,karan.malhotra@example.com,2026,3,Mar
+8197,2025-11-05,West,Apparel,Tablet,Unknown,9,58468.09,526212.81,Not Provided,2025,11,Nov
+8198,2025-02-08,North,Furniture,Jeans,Karan Malhotra,6,11367.0,68201.82,karan.malhotra@example.com,2025,2,Feb
+8199,2025-10-03,North,Home & Kitchen,Smartphone,Unknown,2,58407.0,116814.36,Not Provided,2025,10,Oct
+8200,2026-03-22,East,Electronics,Unknown,Rohan Gupta,5,50771.0,253854.3,rohan.gupta@example.com,2026,3,Mar
+8052,2025-06-04,East,Furniture,Laptop,Karan Malhotra,9,5666.34,50997.06,karan.malhotra@example.com,2025,6,Jun
+7857,2025-07-31,East,Electronics,Desk,Meera Iyer,1,26066.1,26066.1,meera.iyer@example.com,2025,7,Jul
+7963,2026-01-23,West,Home & Kitchen,Blender,Unknown,1,29932.72,29932.72,Not Provided,2026,1,Jan
+7579,2026-04-05,West,Electronics,Sneakers,Karan Malhotra,7,33270.62,232894.34,karan.malhotra@example.com,2026,4,Apr
+8078,2026-06-15,West,Electronics,Desk,Karan Malhotra,-5,44056.0,220282.25,karan.malhotra@example.com,2026,6,Jun
+7834,2025-05-26,North,Apparel,Desk,Rohan Gupta,9,21213.0,190919.88,rohan.gupta@example.com,2025,5,May
+7737,2026-02-04,South,Electronics,Laptop,Vikram Shah,10,36507.79,365077.9,vikram.shah@example.com,2026,2,Feb
+7724,2025-10-21,South,Electronics,Office Chair,Sana Khan,7,26553.0,185868.9,sana.khan@example.com,2025,10,Oct
+7056,2026-05-28,North,Home & Kitchen,Tablet,Priya Menon,6,46502.33,279013.98,priya.menon@example.com,2026,5,May
+8064,2025-03-06,West,Apparel,Desk,Priya Menon,9,5355.39,48198.51,priya.menon@example.com,2025,3,Mar
+7042,2025-07-14,North,Apparel,Smartphone,Arjun Nair,1,57959.81,57959.81,arjun.nair@example.com,2025,7,Jul
